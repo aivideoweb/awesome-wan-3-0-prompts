@@ -102,6 +102,34 @@ Study a 30-second fictional mountain story planned as five 6-second shots: read 
 
 [Browse all 9 cases and their prompt availability](guides/x-community-showcase.md). The [6 practice briefs](prompts/community-practice.md) are separate, untested exercises, not the source prompts for these videos.
 
+## Explore four production themes
+
+The illustrations below are inherited concept artwork, not generated video results.
+
+### Commerce, beauty, and retail
+
+[![Inherited commerce, beauty, and retail prompt cover](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
+
+Shoppable demonstrations, fit and texture comparisons, accessible product use, packaging continuity, consultations, and repeatable catalog campaigns. [Open 10 prompts →](prompts/commerce-beauty-retail.md)
+
+### People, dialogue, and localization
+
+[![Inherited people, dialogue, and localization prompt cover](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
+
+Clean speaking turns, multilingual dialogue, localized dubbing, sign-language framing, podcasts, documentary voiceover, and oral history. [Open 10 prompts →](prompts/people-dialogue-localization.md)
+
+### Nature, animals, and seasons
+
+[![Inherited nature, animals, and seasons prompt cover](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
+
+Patient wildlife observation, animal-care routines, macro physics, weather transitions, seasonal change, and non-invasive documentary direction. [Open 10 prompts →](prompts/nature-animals-seasons.md)
+
+### Industrial and manufacturing
+
+[![Inherited industrial and manufacturing prompt cover](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
+
+Safety rehearsals, cobot handoffs, facility explainers, inspection, cold-chain continuity, digital-twin overlays, and multi-SKU generation. [Open 10 prompts →](prompts/industrial-manufacturing.md)
+
 ## Choose an input and adapt the brief
 
 | What you have | Workflow | What to write or check |
@@ -128,8 +156,7 @@ VideoWeb's starting workflow is covered in the [English guide](guides/videoweb-w
 [Constraints] what must remain + the most likely failure modes
 ```
 
-<details>
-<summary>10 practical rules for revising a result</summary>
+### 10 practical rules for revising a result
 
 1. Build each short around one primary event.
 2. Repeat three to five identifying details, such as clothing and hair, without changing their wording.
@@ -141,41 +168,6 @@ VideoWeb's starting workflow is covered in the [English guide](guides/videoweb-w
 8. Keep dialogue short enough for natural pauses.
 9. Use three to six scene-specific negative constraints.
 10. Add one complex variable per iteration.
-
-</details>
-
-## Explore four production themes
-
-The illustrations below are inherited concept artwork, not generated video results.
-
-<details>
-<summary>Open illustrated collections: commerce, dialogue, nature and manufacturing</summary>
-
-### Commerce, beauty, and retail
-
-[![Inherited commerce, beauty, and retail prompt cover](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
-
-Shoppable demonstrations, fit and texture comparisons, accessible product use, packaging continuity, consultations, and repeatable catalog campaigns. [Open 10 prompts →](prompts/commerce-beauty-retail.md)
-
-### People, dialogue, and localization
-
-[![Inherited people, dialogue, and localization prompt cover](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
-
-Clean speaking turns, multilingual dialogue, localized dubbing, sign-language framing, podcasts, documentary voiceover, and oral history. [Open 10 prompts →](prompts/people-dialogue-localization.md)
-
-### Nature, animals, and seasons
-
-[![Inherited nature, animals, and seasons prompt cover](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
-
-Patient wildlife observation, animal-care routines, macro physics, weather transitions, seasonal change, and non-invasive documentary direction. [Open 10 prompts →](prompts/nature-animals-seasons.md)
-
-### Industrial and manufacturing
-
-[![Inherited industrial and manufacturing prompt cover](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
-
-Safety rehearsals, cobot handoffs, facility explainers, inspection, cold-chain continuity, digital-twin overlays, and multi-SKU generation. [Open 10 prompts →](prompts/industrial-manufacturing.md)
-
-</details>
 
 ## Multilingual prompting
 
