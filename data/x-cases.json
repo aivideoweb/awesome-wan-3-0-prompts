@@ -1,0 +1,317 @@
+[
+  {
+    "id": "void-escape",
+    "title": "Before the Void Swallows You",
+    "author": "0xbisc",
+    "source_url": "https://x.com/0xbisc/status/2093296541834653883",
+    "published_at": "Fri Aug 28 11:16:01 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "native_x_post_and_expanded_prompt_read_video_playback_progress_observed",
+    "retrieval_url": "https://api.fxtwitter.com/status/2093296541834653883",
+    "prompt_url": "https://x.com/0xbisc/status/2093296546926539136",
+    "prompt_status": "complete_prompt_at_source",
+    "lesson": "One-character continuity and a threat kept behind the direction of travel.",
+    "lesson_zh": "单一角色和追逐方向",
+    "limitations": "The full 30-second directing brief was read in the author reply. It requires Image1, which is not supplied in this repository. The post is labeled Paid partnership. Original-post playback advanced to the end in a browser; this is not a VideoWeb reproduction.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2093296405674893312/vid/avc1/1080x1080/X7hD-6uJL017d9aX.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg",
+        "duration": 30,
+        "width": 1080,
+        "height": 1080,
+        "watch_url": "https://x.com/0xbisc/status/2093296541834653883/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "native_x_playback_progress_observed",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "prompt_evidence": {
+      "characters": 7262,
+      "sha256": "20139d09ab9232ec94a4ac034f9452f427728b71a41dd30d7b8d3d6ce6739355",
+      "verification": "Full author reply expanded on native X and cross-checked via reader API; text remains at author source."
+    },
+    "practice_id": "03"
+  },
+  {
+    "id": "arena-boxing",
+    "title": "Rainy arena fight",
+    "author": "OpreliaAI",
+    "source_url": "https://x.com/OpreliaAI/status/2084771795056333038",
+    "published_at": "Tue Aug 04 22:41:43 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2084771795056333038",
+    "prompt_url": "https://x.com/OpreliaAI/status/2084771796910211529",
+    "prompt_status": "external_prompt_link",
+    "lesson": "Readable action with two distinct bodies and one stable setting.",
+    "lesson_zh": "双人动作与空间关系",
+    "limitations": "The author labels this a Wan 3.0 17-second test. The prompt reply links to Telegram; that external prompt was not verified. No source prompt is reproduced.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2084715180269654016/vid/avc1/1280x720/zbe-ld1fHtQVTO0d.mp4?tag=14",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084715180269654016/img/asHNjLcS9QnUssHz.jpg",
+        "duration": 17.02,
+        "width": 1280,
+        "height": 720,
+        "watch_url": "https://x.com/OpreliaAI/status/2084771795056333038/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "practice_id": "04"
+  },
+  {
+    "id": "seven-shot-fight",
+    "title": "Seven-shot animation comparison",
+    "author": "Dani__oros",
+    "source_url": "https://x.com/Dani__oros/status/2084474998459396477",
+    "published_at": "Tue Aug 04 03:02:21 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2084474998459396477",
+    "prompt_url": "https://x.com/Dani__oros/status/2084475003223896189",
+    "prompt_status": "complete_prompt_at_source",
+    "lesson": "Explicit shot count, screen direction, color assignment and accumulating environmental damage.",
+    "lesson_zh": "多镜头与方向连续",
+    "limitations": "The linked reply contains the full 15-second, seven-shot brief. The parent compares THREE models. The media links below are the comparison attachments; their order is not treated as a verified Wan-only identification.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2084474303987474432/vid/avc1/1920x1080/xdN7PiMNI73-LFHG.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084474303987474432/img/2GZ8LBxzIzHzoroJ.jpg",
+        "duration": 15.022,
+        "width": 1920,
+        "height": 1080,
+        "watch_url": "https://x.com/Dani__oros/status/2084474998459396477/video/1"
+      },
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2084474375600996352/vid/avc1/1280x720/iZrR215o88T7YSAJ.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084474375600996352/img/47HxUi8CbBN5MZ7M.jpg",
+        "duration": 15.048,
+        "width": 1280,
+        "height": 720,
+        "watch_url": "https://x.com/Dani__oros/status/2084474998459396477/video/2"
+      },
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2084474462599327744/vid/avc1/854x480/W7taBQ_Ey02vc7PT.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084474462599327744/img/aVInlvjA-u7bMCbs.jpg",
+        "duration": 15.072,
+        "width": 854,
+        "height": 480,
+        "watch_url": "https://x.com/Dani__oros/status/2084474998459396477/video/3"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "prompt_evidence": {
+      "characters": 6850,
+      "sha256": "e864403efbbe9b8208124eb07f95cd93b8197aaf60049bbcdccf3f351d2fc412",
+      "verification": "Full author reply retrieved via reader API; text remains at author source."
+    },
+    "practice_id": "04"
+  },
+  {
+    "id": "tv-opening",
+    "title": "TV opening comparison",
+    "author": "wavespeed_ai",
+    "source_url": "https://x.com/wavespeed_ai/status/2084965430687588477",
+    "published_at": "Wed Aug 05 11:31:10 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2084965430687588477",
+    "prompt_url": "https://x.com/wavespeed_ai/status/2084965430687588477",
+    "prompt_status": "prompt_not_published_in_retrieved_post",
+    "lesson": "A comparison of narrative opening treatments.",
+    "lesson_zh": "片头叙事对比",
+    "limitations": "The post identifies Wan 3.0 and quotes a MiniMax H3 post. That quoted video is a different model. Only the main post attachments are listed; the exact shared prompt was not present.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2084964593970118656/vid/avc1/1920x1080/O-G6eb25Vmm-HSLT.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084964593970118656/img/Cs_-4_9Ipy0tYbig.jpg",
+        "duration": 15.023,
+        "width": 1920,
+        "height": 1080,
+        "watch_url": "https://x.com/wavespeed_ai/status/2084965430687588477/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "practice_id": "02"
+  },
+  {
+    "id": "reference-assembly",
+    "title": "Reference-led production demo",
+    "author": "PixelDojoAI",
+    "source_url": "https://x.com/PixelDojoAI/status/2083212955072807175",
+    "published_at": "Fri Jul 31 15:27:27 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2083212955072807175",
+    "prompt_url": "https://x.com/PixelDojoAI/status/2083212955072807175",
+    "prompt_status": "prompt_not_published_in_retrieved_post",
+    "lesson": "Separate roles for character, place and voice references.",
+    "lesson_zh": "人物、场景和声音参考",
+    "limitations": "A provider early-test announcement, not a reproducible prompt/output pair. Its feature claims apply to that provider and date, not automatically to VideoWeb.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2083212925255446528/vid/avc1/1280x720/QK8mfQ6SmZT9g0RO.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2083212925255446528/img/XZ674J3NnC6mpSLI.jpg",
+        "duration": 30.023,
+        "width": 1280,
+        "height": 720,
+        "watch_url": "https://x.com/PixelDojoAI/status/2083212955072807175/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "WAN 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "practice_id": "05"
+  },
+  {
+    "id": "story-comparison",
+    "title": "Same-scene model comparison",
+    "author": "wavespeed_ai",
+    "source_url": "https://x.com/wavespeed_ai/status/2085025284378538045",
+    "published_at": "Wed Aug 05 15:29:00 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2085025284378538045",
+    "prompt_url": "https://x.com/wavespeed_ai/status/2085025284378538045",
+    "prompt_status": "prompt_not_published_in_retrieved_post",
+    "lesson": "Compare whether story beats, camera and details remain readable.",
+    "lesson_zh": "同场景比较",
+    "limitations": "The post compares Wan 3.0, MiniMax H3 and Seedance 2.0. Its exact prompt and per-attachment model mapping were not published in the retrieved text. Do not label every clip Wan 3.0.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2085020209925210112/vid/avc1/1920x3238/ltuegtJLzV0abXY_.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085020209925210112/img/TUR8ROJJ4D0fV7V_.jpg",
+        "duration": 17.322,
+        "width": 1921,
+        "height": 3240,
+        "watch_url": "https://x.com/wavespeed_ai/status/2085025284378538045/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "practice_id": "04"
+  },
+  {
+    "id": "native-audio",
+    "title": "Native-audio early-access demo",
+    "author": "enhance_ai",
+    "source_url": "https://x.com/enhance_ai/status/2085089954099757225",
+    "published_at": "Wed Aug 05 19:45:58 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "author_post_retrieved_via_fxtwitter_not_generation_reproduced",
+    "retrieval_url": "https://api.fxtwitter.com/status/2085089954099757225",
+    "prompt_url": "https://x.com/enhance_ai/status/2085089954099757225",
+    "prompt_status": "prompt_not_published_in_retrieved_post",
+    "lesson": "Listen for action sounds and how they align with visible motion.",
+    "lesson_zh": "原生音频演示",
+    "limitations": "Provider announcement with video; no exact prompt or independent reproduction. Earlier early-access timing does not establish current speed or availability.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2085089914044207104/vid/avc1/1920x1080/YSnIMXNgd_j1-1_q.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085089914044207104/img/6fdS2Hv6vcDWrnOm.jpg",
+        "duration": 30.069,
+        "width": 1920,
+        "height": 1080,
+        "watch_url": "https://x.com/enhance_ai/status/2085089954099757225/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "media_metadata_retrieved_not_playback_verified",
+    "model_evidence": "WAN 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
+    "practice_id": "06"
+  },
+  {
+    "id": "neon-stage",
+    "title": "Action choreography and aspect-ratio mismatch",
+    "author": "iam_mian7",
+    "source_url": "https://x.com/iam_mian7/status/2097613778796126569",
+    "published_at": "Wed Sep 09 09:11:11 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "native_x_full_prompt_read_single_video_playback_progress_observed",
+    "retrieval_url": "https://api.fxtwitter.com/status/2097613778796126569",
+    "prompt_url": "https://x.com/iam_mian7/status/2097613778796126569",
+    "prompt_status": "complete_prompt_at_source",
+    "lesson": "Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format.",
+    "lesson_zh": "动作编排与画幅核对",
+    "limitations": "The author publishes the full prompt and one video, identifies Wan 3.0 on BudgetPixel, and labels the post Paid partnership. The requested 15-second portrait setup is stated in the prompt. Character and action quality has not been reproduced on VideoWeb. The prompt asks for 9:16, but the attached video container is 1280 × 720 (16:9). Treat this as a visible specification mismatch, not a verified portrait result.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2097613673368059905/vid/avc1/1280x720/IRwKHM-eIwkrQNeh.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097613673368059905/img/R_8c6sGJoOboG8cV.jpg",
+        "duration": 15.023,
+        "width": 1280,
+        "height": 720,
+        "watch_url": "https://x.com/iam_mian7/status/2097613778796126569/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "native_x_playback_progress_observed",
+    "model_evidence": "Wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "No reference assets disclosed; do not assume the author used text-only generation.",
+    "prompt_evidence": {
+      "characters": 2276,
+      "sha256": "5a4aa973e5daced678b7764a49bc7e5214f09b05f7d0e9ecf9e9f773d0ea75bd",
+      "verification": "Full post read on native X and cross-checked via reader API; text remains at author source."
+    },
+    "practice_id": "04"
+  },
+  {
+    "id": "cable-car-story",
+    "title": "Five-shot mountain survival story",
+    "author": "chatgptpaglu",
+    "source_url": "https://x.com/chatgptpaglu/status/2094710054675157354",
+    "published_at": "Tue Sep 01 08:52:49 +0000 2026",
+    "checked_at": "2026-09-22",
+    "verification": "native_x_full_prompt_read_single_video_playback_progress_observed",
+    "retrieval_url": "https://api.fxtwitter.com/status/2094710054675157354",
+    "prompt_url": "https://x.com/chatgptpaglu/status/2094710054675157354",
+    "prompt_status": "complete_prompt_at_source",
+    "lesson": "Plan five timed story beats around one recognizable protagonist, then inspect continuity across cuts.",
+    "lesson_zh": "五镜头叙事与人物连续",
+    "limitations": "The author publishes five six-second shot briefs with one video and identifies Wan 3.0 on Lart AI. This is a fictional thriller scene, not an emergency procedure. No seed or reference inputs are disclosed; not reproduced on VideoWeb.",
+    "media": [
+      {
+        "video_url": "https://video.twimg.com/amplify_video/2094707623602053120/vid/avc1/832x480/LfAAkrB6YsM-co9M.mp4?tag=29",
+        "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg",
+        "duration": 30.023,
+        "width": 832,
+        "height": 480,
+        "watch_url": "https://x.com/chatgptpaglu/status/2094710054675157354/video/1"
+      }
+    ],
+    "rights": "External links only; creator retains rights; not included in repository MIT license.",
+    "playback_check": "native_x_playback_progress_observed",
+    "model_evidence": "wan 3.0",
+    "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
+    "reference_assets_status": "No reference assets disclosed; do not assume the author used text-only generation.",
+    "prompt_evidence": {
+      "characters": 1843,
+      "sha256": "3003005241c9ddf83cf5ec6fdaca610c7bdde53da9b48fc5abff5f14487327b1",
+      "verification": "Full post read on native X and cross-checked via reader API; text remains at author source."
+    },
+    "practice_id": "04"
+  }
+]

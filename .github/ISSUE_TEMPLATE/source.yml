@@ -1,0 +1,34 @@
+name: Suggest an X video or prompt source
+description: Link a creator's post without claiming ownership of their media.
+title: "[Source]: "
+body:
+  - type: input
+    id: original
+    attributes:
+      label: Original X post and creator
+    validations:
+      required: true
+  - type: input
+    id: prompt
+    attributes:
+      label: Full prompt URL, or state that it is unavailable
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Model evidence, video, settings and missing inputs
+      description: Distinguish Wan output from multi-model comparisons. Do not infer unknown seeds or reference assets.
+    validations:
+      required: true
+  - type: textarea
+    id: lesson
+    attributes:
+      label: What can a reader learn from this case?
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Attribution
+      options:
+        - label: I am linking to the creator's work, not granting a license to copy their media or prompt.
+          required: true
