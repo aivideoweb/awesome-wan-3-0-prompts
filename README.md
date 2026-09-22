@@ -6,7 +6,7 @@
 
 **120 complete video prompt templates across 14 categories** for product ads, short films, social clips and explainers. Choose a scene, adapt its actions and settings to your platform, then try it in [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/).
 
-**[Find a prompt](#start-here) · [3 illustrated prompts](#featured-prompts) · [Copy a starter](#quick-start) · [9 video cases](#community-videos) · [All 14 categories](#categories)**
+**[Find a prompt](#start-here) · [3 illustrated prompts](#featured-prompts) · [Copy a starter](#quick-start) · [All 14 categories](#categories) · [9 video cases](#community-videos)**
 
 ![VideoWeb AI — Wan 3.0 prompt library](assets/videoweb-wan-3-hero.webp)
 
@@ -31,40 +31,17 @@
 
 The 120 core prompts come from the upstream collection; the 6 extras are separate untested exercises. They are not verified VideoWeb outputs. Category files use Chinese or English. The [15 language editions](locales/README.md) provide introductions and a comparison example, not full translations of every prompt. [Sources and media credits](UPSTREAM.md).
 
-<a id="categories"></a>
-
-## Prompt categories
-
-Need one place to scan every title? Open the [120-scene master index](prompts/README.md).
-
-| Category | Prompts | Includes | Open |
-|---|---:|---|---|
-| Cinematic storytelling | 6 | drama, suspense, period scenes, one-take shots | [Browse](prompts/cinematic-storytelling.md) |
-| Ads and products | 6 | beauty, food, technology, home, automotive | [Browse](prompts/ads-and-products.md) |
-| Creator videos, food and travel | 6 | vlogs, street food, stays, workshops, close-up sound | [Browse](prompts/ugc-food-travel.md) |
-| Action and sports | 6 | pursuit, snowboarding, volleyball, parkour, visual effects | [Browse](prompts/action-sports.md) |
-| Animation and fantasy | 6 | 2D, 3D, stop motion, East Asian fantasy, sci-fi | [Browse](prompts/anime-fantasy.md) |
-| Music, comedy and social | 6 | live music, dance, rap, pets, office comedy, loops | [Browse](prompts/music-comedy-social.md) |
-| Professional business and public service | 11 | software demos, creator courses, podcasts, accessibility, telehealth, logistics | [Browse](prompts/professional-business.md) |
-| Education and science | 11 | climate, microscopy, safety, astronomy, marine science, museums | [Browse](prompts/education-science.md) |
-| Architecture, hospitality and mobility | 11 | real estate, public space, accessible routes, e-bikes, transit, hotels | [Browse](prompts/architecture-mobility.md) |
-| Production control and editing | 11 | green screen, previs, product rotation, local edits, reference roles, loops | [Browse](prompts/production-control.md) |
-| Commerce, beauty, and retail | 10 | fit demos, shoppable video, skincare, packaging, accessible retail, catalog batches | [Browse](prompts/commerce-beauty-retail.md) |
-| People, dialogue, and localization | 10 | speaker turns, dubbing, sign language, podcasts, oral history, micro-drama | [Browse](prompts/people-dialogue-localization.md) |
-| Nature, animals, and seasons | 10 | wildlife, animal care, weather, macro nature, seasonal change, observatories | [Browse](prompts/nature-animals-seasons.md) |
-| Industrial and manufacturing | 10 | training, cobots, inspection, cold chain, digital twins, multi-product production | [Browse](prompts/industrial-manufacturing.md) |
-
 <a id="featured-prompts"></a>
 
 ## Illustrated scenes with complete prompts
-
-These English adaptations of the upstream homepage scenes use 10 or 15 seconds and 16:9. They remain untested templates; the inherited illustrations show the creative direction, not generated results. Set the matching controls in your platform before generating. Audio instructions apply only where supported.
 
 <a id="featured-action"></a>
 
 ### 1. Rainy motorcycle pursuit — continuous action
 
 ![Motorcycle pursuit concept illustration](assets/covers/cinematic-action.webp)
+
+*These three inherited illustrations show creative direction, not tested video results. The English prompts adapt the upstream homepage scenes to 10 or 15 seconds and 16:9 and remain untested. Set the matching platform controls before generating; audio instructions apply only where supported.*
 
 **Text to video · 10 seconds · 16:9.** Study consistent travel direction and motion shown through the environment.
 
@@ -141,6 +118,85 @@ cuts.
 ```
 
 [Explore more fantasy prompts](prompts/anime-fantasy.md) · [Use this in VideoWeb](#quick-start)
+
+<a id="quick-start"></a>
+
+## Make your first video on VideoWeb AI
+
+The steps below use the 10-second mug example. To use an illustrated scene above, paste its prompt instead and choose the duration listed beside it: 10 seconds for the chase or fragrance, 15 seconds for the fantasy scene.
+
+1. Open [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/). For this text-only example, use **Text / Image to Video** and leave **Start Frame** empty.
+2. Match the prompt’s duration and ratio in the form: **10 seconds, 16:9** for the mug below. Choose an available resolution and paste your selected prompt. Review the displayed charge before generating.
+3. Watch the whole result: the lid should open once, the mug should keep its shape and the camera should stay fixed. If it fails, simplify one action and compare the next result.
+
+```text
+10 seconds, 16:9.
+
+A plain ceramic travel mug sits on a wooden kitchen counter beside a bright window.
+The camera stays fixed at tabletop height.
+During seconds 0–2 the closed mug remains still.
+During seconds 2–6 an adult hand lifts the hinged lid once and moves out of frame.
+During seconds 6–10 a thin curl of steam rises while the mug stays completely still.
+Soft morning light, realistic ceramic texture.
+If audio is supported: one gentle lid click and quiet room ambience.
+Preserve mug shape, handle position and lid hinge.
+No logos, writing, extra fingers, camera cuts or melting objects.
+```
+
+This starter is an untested editorial example. It is not the prompt behind a community video. Have a product photo instead? Use **Choose Start Frame**, upload your image and describe how it should move. See the [full step-by-step guide](guides/videoweb-workflow.md).
+
+**Adapt the settings before copying.** The form checked on 2026-09-22 offered 5, 10, 15, 20, 25 and 30 seconds. For an 8- or 12-second library brief, choose an available duration and retime each action. If 2.39:1 is unavailable, use an offered ratio, leave room around the subject and crop later. Prompt text does not override the form. Audio, end frames, reference inputs and video editing need matching controls in the selected mode.
+
+<a id="categories"></a>
+
+## Prompt categories
+
+Need one place to scan every title? Open the [120-scene master index](prompts/README.md).
+
+| Category | Prompts | Includes | Open |
+|---|---:|---|---|
+| Cinematic storytelling | 6 | drama, suspense, period scenes, one-take shots | [Browse](prompts/cinematic-storytelling.md) |
+| Ads and products | 6 | beauty, food, technology, home, automotive | [Browse](prompts/ads-and-products.md) |
+| Creator videos, food and travel | 6 | vlogs, street food, stays, workshops, close-up sound | [Browse](prompts/ugc-food-travel.md) |
+| Action and sports | 6 | pursuit, snowboarding, volleyball, parkour, visual effects | [Browse](prompts/action-sports.md) |
+| Animation and fantasy | 6 | 2D, 3D, stop motion, East Asian fantasy, sci-fi | [Browse](prompts/anime-fantasy.md) |
+| Music, comedy and social | 6 | live music, dance, rap, pets, office comedy, loops | [Browse](prompts/music-comedy-social.md) |
+| Professional business and public service | 11 | software demos, creator courses, podcasts, accessibility, telehealth, logistics | [Browse](prompts/professional-business.md) |
+| Education and science | 11 | climate, microscopy, safety, astronomy, marine science, museums | [Browse](prompts/education-science.md) |
+| Architecture, hospitality and mobility | 11 | real estate, public space, accessible routes, e-bikes, transit, hotels | [Browse](prompts/architecture-mobility.md) |
+| Production control and editing | 11 | green screen, previs, product rotation, local edits, reference roles, loops | [Browse](prompts/production-control.md) |
+| Commerce, beauty, and retail | 10 | fit demos, shoppable video, skincare, packaging, accessible retail, catalog batches | [Browse](prompts/commerce-beauty-retail.md) |
+| People, dialogue, and localization | 10 | speaker turns, dubbing, sign language, podcasts, oral history, micro-drama | [Browse](prompts/people-dialogue-localization.md) |
+| Nature, animals, and seasons | 10 | wildlife, animal care, weather, macro nature, seasonal change, observatories | [Browse](prompts/nature-animals-seasons.md) |
+| Industrial and manufacturing | 10 | training, cobots, inspection, cold chain, digital twins, multi-product production | [Browse](prompts/industrial-manufacturing.md) |
+
+## Explore four production themes
+
+The illustrations below are inherited concept artwork, not generated video results.
+
+### Commerce, beauty, and retail
+
+[![Inherited commerce, beauty, and retail prompt cover](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
+
+Shoppable demonstrations, fit and texture comparisons, accessible product use, packaging continuity, consultations, and repeatable catalog campaigns. [Open 10 prompts →](prompts/commerce-beauty-retail.md)
+
+### People, dialogue, and localization
+
+[![Inherited people, dialogue, and localization prompt cover](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
+
+Clean speaking turns, multilingual dialogue, localized dubbing, sign-language framing, podcasts, documentary voiceover, and oral history. [Open 10 prompts →](prompts/people-dialogue-localization.md)
+
+### Nature, animals, and seasons
+
+[![Inherited nature, animals, and seasons prompt cover](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
+
+Patient wildlife observation, animal-care routines, macro physics, weather transitions, seasonal change, and non-invasive documentary direction. [Open 10 prompts →](prompts/nature-animals-seasons.md)
+
+### Industrial and manufacturing
+
+[![Inherited industrial and manufacturing prompt cover](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
+
+Safety rehearsals, cobot handoffs, facility explainers, inspection, cold-chain continuity, digital-twin overlays, and multi-product generation. [Open 10 prompts →](prompts/industrial-manufacturing.md)
 
 <a id="community-videos"></a>
 
@@ -257,62 +313,6 @@ Keep one primary exchange readable, and compare the requested aspect ratio with 
 
 [Browse all 9 cases and their prompt availability](guides/x-community-showcase.md). The [6 practice briefs](prompts/community-practice.md) are separate, untested exercises, not the source prompts for these videos.
 <!-- END GENERATED X CASES -->
-
-## Explore four production themes
-
-The illustrations below are inherited concept artwork, not generated video results.
-
-### Commerce, beauty, and retail
-
-[![Inherited commerce, beauty, and retail prompt cover](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
-
-Shoppable demonstrations, fit and texture comparisons, accessible product use, packaging continuity, consultations, and repeatable catalog campaigns. [Open 10 prompts →](prompts/commerce-beauty-retail.md)
-
-### People, dialogue, and localization
-
-[![Inherited people, dialogue, and localization prompt cover](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
-
-Clean speaking turns, multilingual dialogue, localized dubbing, sign-language framing, podcasts, documentary voiceover, and oral history. [Open 10 prompts →](prompts/people-dialogue-localization.md)
-
-### Nature, animals, and seasons
-
-[![Inherited nature, animals, and seasons prompt cover](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
-
-Patient wildlife observation, animal-care routines, macro physics, weather transitions, seasonal change, and non-invasive documentary direction. [Open 10 prompts →](prompts/nature-animals-seasons.md)
-
-### Industrial and manufacturing
-
-[![Inherited industrial and manufacturing prompt cover](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
-
-Safety rehearsals, cobot handoffs, facility explainers, inspection, cold-chain continuity, digital-twin overlays, and multi-product generation. [Open 10 prompts →](prompts/industrial-manufacturing.md)
-
-<a id="quick-start"></a>
-
-## Make your first video on VideoWeb AI
-
-The steps below use the 10-second mug example. To use an illustrated scene above, paste its prompt instead and choose the duration listed beside it: 10 seconds for the chase or fragrance, 15 seconds for the fantasy scene.
-
-1. Open [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/). For this text-only example, use **Text / Image to Video** and leave **Start Frame** empty.
-2. Match the prompt’s duration and ratio in the form: **10 seconds, 16:9** for the mug below. Choose an available resolution and paste your selected prompt. Review the displayed charge before generating.
-3. Watch the whole result: the lid should open once, the mug should keep its shape and the camera should stay fixed. If it fails, simplify one action and compare the next result.
-
-```text
-10 seconds, 16:9.
-
-A plain ceramic travel mug sits on a wooden kitchen counter beside a bright window.
-The camera stays fixed at tabletop height.
-During seconds 0–2 the closed mug remains still.
-During seconds 2–6 an adult hand lifts the hinged lid once and moves out of frame.
-During seconds 6–10 a thin curl of steam rises while the mug stays completely still.
-Soft morning light, realistic ceramic texture.
-If audio is supported: one gentle lid click and quiet room ambience.
-Preserve mug shape, handle position and lid hinge.
-No logos, writing, extra fingers, camera cuts or melting objects.
-```
-
-This starter is an untested editorial example. It is not the prompt behind a community video. Have a product photo instead? Use **Choose Start Frame**, upload your image and describe how it should move. See the [full step-by-step guide](guides/videoweb-workflow.md).
-
-**Adapt the settings before copying.** The form checked on 2026-09-22 offered 5, 10, 15, 20, 25 and 30 seconds. For an 8- or 12-second library brief, choose an available duration and retime each action. If 2.39:1 is unavailable, use an offered ratio, leave room around the subject and crop later. Prompt text does not override the form. Audio, end frames, reference inputs and video editing need matching controls in the selected mode.
 
 ## Choose an input and adapt the brief
 

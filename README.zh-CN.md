@@ -4,7 +4,7 @@
 
 **120 条完整提示词模板，覆盖 14 类视频场景**，适合制作商品广告、故事短片、社交视频和知识讲解。选一个场景，按当前平台调整动作和参数，再到 [VideoWeb AI 的 Wan 3.0 页面](https://videoweb.ai/model/wan-3-0/)尝试生成。
 
-**[按用途找提示词](#start-here) · [3 个完整图例](#featured-prompts) · [复制入门示例](#quick-start) · [9 个视频案例](#community-videos) · [查看全部分类](#categories)**
+**[按用途找提示词](#start-here) · [3 个完整图例](#featured-prompts) · [复制入门示例](#quick-start) · [查看全部分类](#categories) · [9 个视频案例](#community-videos)**
 
 ![VideoWeb AI — Wan 3.0 视频提示词库](assets/videoweb-wan-3-hero.webp)
 
@@ -29,42 +29,17 @@
 
 120 条基础提示词继承自源库，6 条补充练习尚未实测，均未逐条在 VideoWeb 验证。分类文件使用中文或英文；[15 种语言版本](locales/README.md)提供介绍和对照示例，不代表全部提示词都有完整翻译。[内容与图片来源](UPSTREAM.md)。
 
-<a id="categories"></a>
-
-## 📚 场景提示词库
-
-需要一次浏览全部标题？打开 [120 场景总索引](prompts/README.md)。
-
-| 分类 | 数量 | 适用内容 | 文件 |
-|---|---:|---|---|
-| 🎞️ 电影叙事与镜头语言 | 6 | 情绪短片、悬疑、年代戏、一镜到底 | [查看提示词](prompts/cinematic-storytelling.md) |
-| 🛍️ 商品广告与品牌视觉 | 6 | 美妆、食品、科技、家居、时尚、汽车 | [查看提示词](prompts/ads-and-products.md) |
-| 📱 生活记录、美食与旅行 | 6 | 探店、开箱、旅行日记、生活方式 | [查看提示词](prompts/ugc-food-travel.md) |
-| 🏃 动作、体育与物理特效 | 6 | 追逐、滑雪、球类、跑酷、微缩灾难 | [查看提示词](prompts/action-sports.md) |
-| 🐉 动漫、幻想与风格化叙事 | 6 | 2D 动画、3D 动画、仙侠、科幻、童话 | [查看提示词](prompts/anime-fantasy.md) |
-| 🎵 音乐、喜剧与社交传播 | 6 | 音乐短片、舞蹈、乐队、反转喜剧、萌宠、循环视频 | [查看提示词](prompts/music-comedy-social.md) |
-| 💼 专业商业与公共服务 | 11 | 软件服务、课程、播客、无障碍、远程医疗、物流 | [查看提示词](prompts/professional-business.md) |
-| 🔬 教育、科学与纪录 | 11 | 气候、显微镜、安全、天文、海洋、博物馆 | [查看提示词](prompts/education-science.md) |
-| 🏙️ 建筑、酒店与交通 | 11 | 房地产、公共空间、无障碍路线、电助力车、轨道交通 | [查看提示词](prompts/architecture-mobility.md) |
-| 🎛️ 专业制作与编辑控制 | 11 | 绿幕、白模预演、商品旋转、局部编辑、多参考、循环 | [查看提示词](prompts/production-control.md) |
-| 🛒 电商、美妆与零售 | 10 | 试穿、带货演示、护肤、包装、无障碍零售、批量商品目录 | [查看提示词](prompts/commerce-beauty-retail.md) |
-| 🗣️ 人物、对白与本地化 | 10 | 对话轮次、配音、手语、播客、口述史、多语言短剧 | [查看提示词](prompts/people-dialogue-localization.md) |
-| 🦊 自然、动物与季节 | 10 | 野生动物、动物照护、天气、微距自然、季节变化、天文台 | [查看提示词](prompts/nature-animals-seasons.md) |
-| 🏭 工业与制造 | 10 | 培训、协作机器人、检测、冷链、数字孪生、批量商品 | [查看提示词](prompts/industrial-manufacturing.md) |
-
 <a id="featured-prompts"></a>
 
 ## 精选场景与完整提示词
-
-以下图片沿用源库，仅用于表达场景，不是提示词对应的实测视频。
-
-这三条由源库首页示例改编，已调整为 10 秒或 15 秒、16:9，尚未实测。生成前仍需在平台界面设置对应参数；声音要求只在支持声音的模式下使用。
 
 <a id="featured-action"></a>
 
 ### 1. 雨夜摩托追逐｜动作连续性
 
 ![动作追逐场景示意图](assets/covers/cinematic-action.webp)
+
+*这三个场景的图片沿用源库，用于表达场景，并非实测视频。三条提示词由源库首页示例改编，已调整为 10 秒或 15 秒、16:9，尚未实测。生成前请设置对应参数；声音要求仅适用于支持声音的模式。*
 
 **文生视频 · 10 秒 · 16:9。** 重点看行进方向，以及雨水和背景如何表现速度。
 
@@ -124,6 +99,84 @@
 ```
 
 [查看同类提示词](prompts/anime-fantasy.md) · [在 VideoWeb 使用](#quick-start)
+
+<a id="quick-start"></a>
+
+## 在 VideoWeb AI 生成第一个视频
+
+下面用 10 秒杯子示例说明操作。使用上方精选场景时，换成对应提示词，并按场景标注设置时长：追逐和香氛为 10 秒，幻想场景为 15 秒。
+
+1. 打开 [VideoWeb AI 的 Wan 3.0 页面](https://videoweb.ai/model/wan-3-0/)，使用 **Text / Image to Video（文字或图片生成视频）**。下面的例子不需要上传 **Start Frame（首帧）**。
+2. 在界面设置所选提示词的时长和画幅；下面的杯子示例为 **10 秒、16:9**。选择可用清晰度，粘贴选好的提示词。查看本次费用后再生成。
+3. 完整看一遍结果：杯盖是否只开了一次？杯身是否变形？镜头是否突然切换？有问题时先简化一个动作，再比较下一版。
+
+```text
+10 秒，16:9。
+一个没有文字的陶瓷随行杯放在窗边木质厨房台面上。
+摄影机固定在台面高度。
+0–2 秒，杯盖关闭，杯子静止；
+2–6 秒，一只成年人的手将铰链杯盖打开一次，然后退出画面；
+6–10 秒，一缕细蒸汽缓缓上升，杯子继续保持静止。
+柔和晨光，真实陶瓷纹理。
+支持声音时：一次轻微的开盖声和安静的室内环境音。
+保持杯身、杯柄和铰链位置不变。
+不要文字、商标、多余手指、跳切或物体融化。
+```
+
+这是尚未实测的入门练习，不是社区视频的原始提示词。如果已有商品照片，点击 **Choose Start Frame（选择首帧）** 上传图片，再描述需要的动作。详细步骤见[操作指南](guides/videoweb-workflow.zh-CN.md)。
+
+**复制后先核对参数。** 2026-09-22 检查到的表单提供 5、10、15、20、25、30 秒。原模板写 8 秒或 12 秒时，需选可用时长并同步调整各段动作；没有 2.39:1 时，可选现有画幅、给主体留出边缘空间，再后期裁切。提示词不能代替界面设置。声音、尾帧、多参考和视频编辑均需当前模式提供对应功能。
+
+<a id="categories"></a>
+
+## 📚 场景提示词库
+
+需要一次浏览全部标题？打开 [120 场景总索引](prompts/README.md)。
+
+| 分类 | 数量 | 适用内容 | 文件 |
+|---|---:|---|---|
+| 🎞️ 电影叙事与镜头语言 | 6 | 情绪短片、悬疑、年代戏、一镜到底 | [查看提示词](prompts/cinematic-storytelling.md) |
+| 🛍️ 商品广告与品牌视觉 | 6 | 美妆、食品、科技、家居、时尚、汽车 | [查看提示词](prompts/ads-and-products.md) |
+| 📱 生活记录、美食与旅行 | 6 | 探店、开箱、旅行日记、生活方式 | [查看提示词](prompts/ugc-food-travel.md) |
+| 🏃 动作、体育与物理特效 | 6 | 追逐、滑雪、球类、跑酷、微缩灾难 | [查看提示词](prompts/action-sports.md) |
+| 🐉 动漫、幻想与风格化叙事 | 6 | 2D 动画、3D 动画、仙侠、科幻、童话 | [查看提示词](prompts/anime-fantasy.md) |
+| 🎵 音乐、喜剧与社交传播 | 6 | 音乐短片、舞蹈、乐队、反转喜剧、萌宠、循环视频 | [查看提示词](prompts/music-comedy-social.md) |
+| 💼 专业商业与公共服务 | 11 | 软件服务、课程、播客、无障碍、远程医疗、物流 | [查看提示词](prompts/professional-business.md) |
+| 🔬 教育、科学与纪录 | 11 | 气候、显微镜、安全、天文、海洋、博物馆 | [查看提示词](prompts/education-science.md) |
+| 🏙️ 建筑、酒店与交通 | 11 | 房地产、公共空间、无障碍路线、电助力车、轨道交通 | [查看提示词](prompts/architecture-mobility.md) |
+| 🎛️ 专业制作与编辑控制 | 11 | 绿幕、白模预演、商品旋转、局部编辑、多参考、循环 | [查看提示词](prompts/production-control.md) |
+| 🛒 电商、美妆与零售 | 10 | 试穿、带货演示、护肤、包装、无障碍零售、批量商品目录 | [查看提示词](prompts/commerce-beauty-retail.md) |
+| 🗣️ 人物、对白与本地化 | 10 | 对话轮次、配音、手语、播客、口述史、多语言短剧 | [查看提示词](prompts/people-dialogue-localization.md) |
+| 🦊 自然、动物与季节 | 10 | 野生动物、动物照护、天气、微距自然、季节变化、天文台 | [查看提示词](prompts/nature-animals-seasons.md) |
+| 🏭 工业与制造 | 10 | 培训、协作机器人、检测、冷链、数字孪生、批量商品 | [查看提示词](prompts/industrial-manufacturing.md) |
+
+## 四个实用专题
+
+以下分类插图沿用源库，用于展示创作方向。
+
+### 电商、美妆与零售
+
+[![电商、美妆与零售场景插图](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
+
+电商与零售专题覆盖服装动态试穿、质地对比、产品功能、包装连续性、柜台咨询和批量商品广告。[查看 10 条提示词 →](prompts/commerce-beauty-retail.md)
+
+### 人物、对白与本地化
+
+[![人物、对白与本地化场景插图](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
+
+人物与语言专题覆盖干净的说话轮次、多语言对白、配音编辑、手语取景、播客、纪录片旁白和口述史。[查看 10 条提示词 →](prompts/people-dialogue-localization.md)
+
+### 自然、动物与季节
+
+[![自然、动物与季节场景插图](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
+
+自然专题强调野生动物的非侵入式观察、动物照护、微距物理、天气与季节变化。[查看 10 条提示词 →](prompts/nature-animals-seasons.md)
+
+### 工业与制造
+
+[![工业与制造场景插图](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
+
+工业专题覆盖安全预演、协作机器人、设施解释、质量检测、冷链、数字孪生和多款商品批量生产。[查看 10 条提示词 →](prompts/industrial-manufacturing.md)
 
 <a id="community-videos"></a>
 
@@ -240,61 +293,6 @@
 
 [查看全部 9 个案例及提示词完整情况](guides/x-community-showcase.md)。[6 条补充练习](prompts/community-practice.md)是独立编写、尚未实测的练习，不是这些视频的原始提示词。
 <!-- END GENERATED X CASES -->
-
-## 四个实用专题
-
-以下分类插图沿用源库，用于展示创作方向。
-
-### 电商、美妆与零售
-
-[![电商、美妆与零售场景插图](assets/covers/commerce-beauty-retail.webp)](prompts/commerce-beauty-retail.md)
-
-电商与零售专题覆盖服装动态试穿、质地对比、产品功能、包装连续性、柜台咨询和批量商品广告。[查看 10 条提示词 →](prompts/commerce-beauty-retail.md)
-
-### 人物、对白与本地化
-
-[![人物、对白与本地化场景插图](assets/covers/people-dialogue-localization.webp)](prompts/people-dialogue-localization.md)
-
-人物与语言专题覆盖干净的说话轮次、多语言对白、配音编辑、手语取景、播客、纪录片旁白和口述史。[查看 10 条提示词 →](prompts/people-dialogue-localization.md)
-
-### 自然、动物与季节
-
-[![自然、动物与季节场景插图](assets/covers/nature-animals-seasons.webp)](prompts/nature-animals-seasons.md)
-
-自然专题强调野生动物的非侵入式观察、动物照护、微距物理、天气与季节变化。[查看 10 条提示词 →](prompts/nature-animals-seasons.md)
-
-### 工业与制造
-
-[![工业与制造场景插图](assets/covers/industrial-manufacturing.webp)](prompts/industrial-manufacturing.md)
-
-工业专题覆盖安全预演、协作机器人、设施解释、质量检测、冷链、数字孪生和多款商品批量生产。[查看 10 条提示词 →](prompts/industrial-manufacturing.md)
-
-<a id="quick-start"></a>
-
-## 在 VideoWeb AI 生成第一个视频
-
-下面用 10 秒杯子示例说明操作。使用上方精选场景时，换成对应提示词，并按场景标注设置时长：追逐和香氛为 10 秒，幻想场景为 15 秒。
-
-1. 打开 [VideoWeb AI 的 Wan 3.0 页面](https://videoweb.ai/model/wan-3-0/)，使用 **Text / Image to Video（文字或图片生成视频）**。下面的例子不需要上传 **Start Frame（首帧）**。
-2. 在界面设置所选提示词的时长和画幅；下面的杯子示例为 **10 秒、16:9**。选择可用清晰度，粘贴选好的提示词。查看本次费用后再生成。
-3. 完整看一遍结果：杯盖是否只开了一次？杯身是否变形？镜头是否突然切换？有问题时先简化一个动作，再比较下一版。
-
-```text
-10 秒，16:9。
-一个没有文字的陶瓷随行杯放在窗边木质厨房台面上。
-摄影机固定在台面高度。
-0–2 秒，杯盖关闭，杯子静止；
-2–6 秒，一只成年人的手将铰链杯盖打开一次，然后退出画面；
-6–10 秒，一缕细蒸汽缓缓上升，杯子继续保持静止。
-柔和晨光，真实陶瓷纹理。
-支持声音时：一次轻微的开盖声和安静的室内环境音。
-保持杯身、杯柄和铰链位置不变。
-不要文字、商标、多余手指、跳切或物体融化。
-```
-
-这是尚未实测的入门练习，不是社区视频的原始提示词。如果已有商品照片，点击 **Choose Start Frame（选择首帧）** 上传图片，再描述需要的动作。详细步骤见[操作指南](guides/videoweb-workflow.zh-CN.md)。
-
-**复制后先核对参数。** 2026-09-22 检查到的表单提供 5、10、15、20、25、30 秒。原模板写 8 秒或 12 秒时，需选可用时长并同步调整各段动作；没有 2.39:1 时，可选现有画幅、给主体留出边缘空间，再后期裁切。提示词不能代替界面设置。声音、尾帧、多参考和视频编辑均需当前模式提供对应功能。
 
 ## 按手里的素材选择写法
 
