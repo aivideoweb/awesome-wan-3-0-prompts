@@ -34,12 +34,24 @@ Image 1 defines the technician; Image 2 defines the customer and desk; Video 1 d
 
 ## 03｜Sign-language evacuation briefing
 
-**Mode:** I2V · **Suggested:** 16 seconds, 16:9
+**Mode:** I2V for a background plate; human-recorded signing composited in an editor · **Suggested:** 20 seconds, 16:9; extend to fit the approved delivery
 
 [Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
+**Production steps (do not paste into the generator):**
+
+this is a production plan for a briefing with human-recorded signing, not a request to invent sign-language motion. Before use, specify the target sign language and regional variety, obtain the site's approved evacuation wording and map, and record a qualified signer delivering that exact content. Keep the complete signed performance, including facial grammar and pauses. The reference recording and permission are not supplied here. A fluent user of that sign language must review meaning and visibility before release; the site must approve the evacuation information. Without these inputs, use the generated background only as a layout rehearsal.
+
+Production inputs to complete before editing: {target sign language and regional variety}; {site-approved full evacuation script and map}; {authorized recording of a qualified signer delivering that script}; {approved spoken recording if used}. Do not treat these placeholders as content to synthesize.
+In post-production, place the complete human-signed recording in the reserved signer area, with the approved map visible on the left. If the generated plate uses a plain background, add the approved map as a separate graphic in the editor. If an approved spoken recording is supplied, use it as off-screen narration; no on-screen presenter is required. Extend the background to match the actual delivery; never speed up, truncate or retime signs to force a 20-second limit. Preserve the recorded hands, face and signing space; do not use generated replacement motion. Add reviewed captions without covering the signer.
+Release only after a fluent user of the specified sign language checks the entire message, handshapes, positions, movement, orientation and facial grammar, and the site approves the final evacuation content. Otherwise retain as a layout rehearsal, not operational instructions.
+
+**Generator prompt (paste only this block):**
+
 ```text
-Use the supplied image as the exact presenter, interpreter, room, and exit-map reference. Animate an accessible workplace evacuation briefing. The presenter stands on the left and speaks two short sentences at a measured pace; the sign-language interpreter stands on the right with both hands fully visible from waist to head. 0–7s: presenter says, “When the alarm sounds, leave by the nearest marked exit.” 7–9s: both pause while the camera gently pushes toward the map. 9–16s: presenter says, “Meet at the tree across the courtyard.” The interpreter signs continuously with natural facial grammar, beginning just after each spoken phrase and finishing before the next. Staff in the foreground watch silently. Preserve hand anatomy, identity, clothing, map, exit arrows, framing, and speaker positions. Clear speech, no music. No cropped hands, invented or gibberish signs, overlapping dialogue, subtitles covering hands, flashing lights, panic, running, text changes, or role swapping.
+20-second background plate for a workplace briefing, 16:9. Use an authorized image of the approved room and exit map as the layout reference. Keep the map and exit symbols unchanged. If those details cannot be preserved, generate a plain neutral background without a map.
+Reserve the left side for the approved map and keep the right signer area empty, with enough room for the signer's upper body, face and both hands. Camera locked, even lighting, clean contrast, no foreground people, no camera move toward the map.
+0–20 seconds: hold the same stable background for the full clip. Do not generate a presenter, interpreter, signing gestures, spoken instructions, captions or new exit directions.
 ```
 
 <a id="prompt-04"></a>

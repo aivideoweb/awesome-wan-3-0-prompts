@@ -36,3 +36,5 @@ Compare the pinned commit in [UPSTREAM.md](UPSTREAM.md) with the source reposito
 For reader review, follow: homepage → language entry → use case → complete brief → supported mode → result video → provenance → contribution form. Checks validate files and catalog consistency; they do not validate video quality or platform uptime.
 
 In multilingual review, distinguish inherited material from new work. Check the counts of 120 core briefs, six exercises, one new cover and seven inherited illustrations. Do not call the inherited collection newly authored by VideoWeb. Scene instructions asking for an original character are unrelated and should remain intact.
+
+For briefs that combine generation and human production work, keep one `text` code block containing only the generator prompt. Put prerequisites, human-recorded inputs, post-production and review requirements between `**Production steps (do not paste into the generator):**` and `**Generator prompt (paste only this block):**`. The catalog exports that section as `production_notes` in JSON and a separate labeled section in the text download, so the requirements travel with the prompt.

@@ -155,18 +155,29 @@ Audio: quiet archive room, foam contact, camera shutter. No restoration invented
 
 ## 09｜Inclusive science demonstration with sign language
 
-**Mode**: R2V / Audio-driven　**Suggested**: 18 seconds, 16:9
+**Mode**: T2V or I2V for demonstration plates; human-recorded signing composited in an editor · **Suggested**: 20 seconds, 16:9; extend to fit the reviewed signing
 
 [Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
+**Production steps (do not paste into the generator):**
+
+define the language and message before producing the video. Specify the target sign language and regional variety, and obtain an authorized recording by a fluent Deaf educator or qualified signer. Have that signer translate and review the exact opening and conclusion below; the English sentences describe the intended meaning, not a word-for-sign translation. Use the actual signed recording in the final edit. If it is unavailable, make only the cup demonstration and layout rehearsal; do not generate substitute signing.
+
+20 seconds, 16:9, production plan for a condensation explainer with a human-recorded signed presentation. Required inputs: {target sign language and regional variety}; {authorized complete signed opening and conclusion, translated and reviewed by a fluent signer}; {permission to show the educator}. No signing reference is supplied with this template.
+Opening meaning to translate and review: "This cup is cold. Water vapor in the surrounding air can condense into liquid water on its outer surface."
+Conclusion meaning to translate and review: "The droplets outside the cold cup come from water vapor in the surrounding air, not from water passing through the cup wall."
+
+In an editor, insert the approved signed opening and conclusion without changing their motion or facial grammar. Adjust plate durations to the full natural delivery; do not speed up or truncate the signing. Add the reviewed explanatory arrows and accurate captions outside the signing space.
+Before publishing as accessible information, a fluent user of the specified sign language must check the complete message, handshapes, locations, orientation, movement and facial grammar. Verify the scientific meaning and captions too. Without that review, keep the edit as a draft, not a verified signed lesson.
+
+**Generator prompt (paste only this block):**
+
 ```text
-18 seconds, 16:9, accessible science explainer about condensation. Presenter lock: Deaf adult educator with shoulder-length dark hair, cobalt-blue shirt, neutral backdrop; sign-language interpreter reference defines signing motion only, not identity. Keep hands fully inside frame from waist to head.
-
-00:00–00:06: Presenter signs the opening while a chilled metal cup and room-temperature cup sit on the table. No spoken mouth movement is required. Camera remains in a stable medium shot with clear hand contrast.
-00:06–00:12: Cut to close-up: droplets form on the outside of the chilled cup. Simple arrows show water vapor from surrounding air reaching the cold surface; no water passes through the cup wall.
-00:12–00:18: Return to the same medium shot. Presenter signs the conclusion and points first to the air, then the outside droplets. Reserve lower third for accurate captions added in post, but generate no fake text.
-
-Audio can contain only room tone and optional soft foley; accessibility does not depend on audio. No cropped hands, altered signs, presenter identity drift, leaking cup, auto-generated captions, logo, or watermark.
+20 seconds, 16:9, condensation demonstration plates for later compositing with a human presenter.
+Generate only the following plates, using supported text or image input. Keep a neutral background and reserve a clear, unobstructed area for the educator's face, upper body and hands to be composited later.
+0–6 seconds: stable medium view of a chilled metal cup and a room-temperature cup on a table, with no generated presenter or gestures. This is the background for the recorded opening.
+6–14 seconds: close-up of small droplets already present on the outside of the chilled cup; the comparison cup remains dry. Keep both cups intact and avoid liquid passing through their walls. Do not generate arrows, text or symbols.
+14–20 seconds: return to the same medium composition as the opening. This is the background for the recorded conclusion. No generated signing, lip movements or captions. Optional quiet room tone only.
 ```
 
 <a id="prompt-10"></a>

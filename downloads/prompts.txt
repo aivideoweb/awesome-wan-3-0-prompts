@@ -502,14 +502,23 @@ education-science-08 | 08｜Archaeological pottery documentation
 Audio: quiet archive room, foam contact, camera shutter. No restoration invented on screen, no culturally specific claim without evidence, no artifact redesign, no bare-hand contact, logo, or watermark.
 
 education-science-09 | 09｜Inclusive science demonstration with sign language
-**Mode**: R2V / Audio-driven　**Suggested**: 18 seconds, 16:9
-18 seconds, 16:9, accessible science explainer about condensation. Presenter lock: Deaf adult educator with shoulder-length dark hair, cobalt-blue shirt, neutral backdrop; sign-language interpreter reference defines signing motion only, not identity. Keep hands fully inside frame from waist to head.
+**Mode**: T2V or I2V for demonstration plates; human-recorded signing composited in an editor · **Suggested**: 20 seconds, 16:9; extend to fit the reviewed signing
+PRODUCTION STEPS — do not paste into the generator:
+define the language and message before producing the video. Specify the target sign language and regional variety, and obtain an authorized recording by a fluent Deaf educator or qualified signer. Have that signer translate and review the exact opening and conclusion below; the English sentences describe the intended meaning, not a word-for-sign translation. Use the actual signed recording in the final edit. If it is unavailable, make only the cup demonstration and layout rehearsal; do not generate substitute signing.
 
-00:00–00:06: Presenter signs the opening while a chilled metal cup and room-temperature cup sit on the table. No spoken mouth movement is required. Camera remains in a stable medium shot with clear hand contrast.
-00:06–00:12: Cut to close-up: droplets form on the outside of the chilled cup. Simple arrows show water vapor from surrounding air reaching the cold surface; no water passes through the cup wall.
-00:12–00:18: Return to the same medium shot. Presenter signs the conclusion and points first to the air, then the outside droplets. Reserve lower third for accurate captions added in post, but generate no fake text.
+20 seconds, 16:9, production plan for a condensation explainer with a human-recorded signed presentation. Required inputs: {target sign language and regional variety}; {authorized complete signed opening and conclusion, translated and reviewed by a fluent signer}; {permission to show the educator}. No signing reference is supplied with this template.
+Opening meaning to translate and review: "This cup is cold. Water vapor in the surrounding air can condense into liquid water on its outer surface."
+Conclusion meaning to translate and review: "The droplets outside the cold cup come from water vapor in the surrounding air, not from water passing through the cup wall."
 
-Audio can contain only room tone and optional soft foley; accessibility does not depend on audio. No cropped hands, altered signs, presenter identity drift, leaking cup, auto-generated captions, logo, or watermark.
+In an editor, insert the approved signed opening and conclusion without changing their motion or facial grammar. Adjust plate durations to the full natural delivery; do not speed up or truncate the signing. Add the reviewed explanatory arrows and accurate captions outside the signing space.
+Before publishing as accessible information, a fluent user of the specified sign language must check the complete message, handshapes, locations, orientation, movement and facial grammar. Verify the scientific meaning and captions too. Without that review, keep the edit as a draft, not a verified signed lesson.
+
+GENERATOR PROMPT — paste this text:
+20 seconds, 16:9, condensation demonstration plates for later compositing with a human presenter.
+Generate only the following plates, using supported text or image input. Keep a neutral background and reserve a clear, unobstructed area for the educator's face, upper body and hands to be composited later.
+0–6 seconds: stable medium view of a chilled metal cup and a room-temperature cup on a table, with no generated presenter or gestures. This is the background for the recorded opening.
+6–14 seconds: close-up of small droplets already present on the outside of the chilled cup; the comparison cup remains dry. Keep both cups intact and avoid liquid passing through their walls. Do not generate arrows, text or symbols.
+14–20 seconds: return to the same medium composition as the opening. This is the background for the recorded conclusion. No generated signing, lip movements or captions. Optional quiet room tone only.
 
 education-science-10 | 10｜Preventing allergen cross-contact in a small kitchen
 **Mode**: T2V / R2V　**Suggested**: 18 seconds, 16:9
@@ -681,8 +690,18 @@ people-dialogue-localization-02 | 02｜Remote support instruction matched to rea
 Image 1 defines the technician; Image 2 defines the customer and desk; Video 1 defines the screen-call layout only. Create a remote support exchange in which every spoken instruction is followed by one visible action. 0–5s: split view; technician says in Spanish, “Busca el cable azul, a la izquierda del router.” Customer listens with hands still. 5–10s: customer selects the single blue cable on the left, holds it up, and asks, “¿Este?” 10–14s: technician answers, “Sí. Conéctalo al puerto marcado dos.” 14–18s: close physical view as the customer inserts it into port 2 and the second status light turns green. Preserve faces, voices, blue cable, port numbering, hand ownership, screen layout, and desk objects. Sound includes natural room tone and connector click. No simultaneous speaking and action, changing cable colors, moving ports, unreadable fake interface text, extra fingers, subtitles, or indicator light before connection.
 
 people-dialogue-localization-03 | 03｜Sign-language evacuation briefing
-**Mode:** I2V · **Suggested:** 16 seconds, 16:9
-Use the supplied image as the exact presenter, interpreter, room, and exit-map reference. Animate an accessible workplace evacuation briefing. The presenter stands on the left and speaks two short sentences at a measured pace; the sign-language interpreter stands on the right with both hands fully visible from waist to head. 0–7s: presenter says, “When the alarm sounds, leave by the nearest marked exit.” 7–9s: both pause while the camera gently pushes toward the map. 9–16s: presenter says, “Meet at the tree across the courtyard.” The interpreter signs continuously with natural facial grammar, beginning just after each spoken phrase and finishing before the next. Staff in the foreground watch silently. Preserve hand anatomy, identity, clothing, map, exit arrows, framing, and speaker positions. Clear speech, no music. No cropped hands, invented or gibberish signs, overlapping dialogue, subtitles covering hands, flashing lights, panic, running, text changes, or role swapping.
+**Mode:** I2V for a background plate; human-recorded signing composited in an editor · **Suggested:** 20 seconds, 16:9; extend to fit the approved delivery
+PRODUCTION STEPS — do not paste into the generator:
+this is a production plan for a briefing with human-recorded signing, not a request to invent sign-language motion. Before use, specify the target sign language and regional variety, obtain the site's approved evacuation wording and map, and record a qualified signer delivering that exact content. Keep the complete signed performance, including facial grammar and pauses. The reference recording and permission are not supplied here. A fluent user of that sign language must review meaning and visibility before release; the site must approve the evacuation information. Without these inputs, use the generated background only as a layout rehearsal.
+
+Production inputs to complete before editing: {target sign language and regional variety}; {site-approved full evacuation script and map}; {authorized recording of a qualified signer delivering that script}; {approved spoken recording if used}. Do not treat these placeholders as content to synthesize.
+In post-production, place the complete human-signed recording in the reserved signer area, with the approved map visible on the left. If the generated plate uses a plain background, add the approved map as a separate graphic in the editor. If an approved spoken recording is supplied, use it as off-screen narration; no on-screen presenter is required. Extend the background to match the actual delivery; never speed up, truncate or retime signs to force a 20-second limit. Preserve the recorded hands, face and signing space; do not use generated replacement motion. Add reviewed captions without covering the signer.
+Release only after a fluent user of the specified sign language checks the entire message, handshapes, positions, movement, orientation and facial grammar, and the site approves the final evacuation content. Otherwise retain as a layout rehearsal, not operational instructions.
+
+GENERATOR PROMPT — paste this text:
+20-second background plate for a workplace briefing, 16:9. Use an authorized image of the approved room and exit map as the layout reference. Keep the map and exit symbols unchanged. If those details cannot be preserved, generate a plain neutral background without a map.
+Reserve the left side for the approved map and keep the right signer area empty, with enough room for the signer's upper body, face and both hands. Camera locked, even lighting, clean contrast, no foreground people, no camera move toward the map.
+0–20 seconds: hold the same stable background for the full clip. Do not generate a presenter, interpreter, signing gestures, spoken instructions, captions or new exit directions.
 
 people-dialogue-localization-04 | 04｜Documentary voiceover with a silent subject
 **Mode:** T2V · **Suggested:** 18 seconds, 2.39:1
