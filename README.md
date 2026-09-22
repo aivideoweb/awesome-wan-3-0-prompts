@@ -1,105 +1,61 @@
-# 🎬 Awesome Wan 3.0 Prompts — 120 AI Video Directing Briefs | VideoWeb AI
+# 🎬 Awesome Wan 3.0 Prompts — 120 Video Prompts
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md)
-[![简体中文](https://img.shields.io/badge/简体中文-阅读-red)](README.zh-CN.md)
-[![日本語](https://img.shields.io/badge/日本語-読む-blue)](README.ja.md)
-[![Español](https://img.shields.io/badge/Español-Leer-blue)](README.es.md)
-[![Prompts](https://img.shields.io/badge/Wan_3.0_Prompts-120-blueviolet)](prompts/README.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aivideoweb/awesome-wan-3-0-prompts/pulls)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-阅读-red)](README.zh-CN.md) [![日本語](https://img.shields.io/badge/日本語-読む-blue)](README.ja.md) [![Español](https://img.shields.io/badge/Español-Leer-blue)](README.es.md) [![Prompts](https://img.shields.io/badge/Wan_3.0_Prompts-120-blueviolet)](prompts/README.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aivideoweb/awesome-wan-3-0-prompts/pulls) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[繁體中文](README.zh-TW.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt-BR.md) · [Italiano](README.it.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [Bahasa Indonesia](README.id.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [All 15 languages](locales/README.md)
+[繁體中文](README.zh-TW.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt-BR.md) · [Italiano](README.it.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [Bahasa Indonesia](README.id.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [15 language guides](locales/README.md)
 
-> A practical collection of **120 upstream-derived Wan 3.0 AI video prompts** for cinematic storytelling, product commercials, shoppable retail, beauty, UGC, dialogue, localization, wildlife, seasonal processes, industry, manufacturing, education, architecture, mobility, and professional production control.
+**120 complete video prompt templates across 14 categories, ready to adapt to your platform**, for creators making product ads, short films, social clips and explainers. Choose a scene, adapt its actions and camera instructions, then try it in [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/).
 
-| [Browse 120 prompts](prompts/README.md) | [Submit a tested prompt](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml) | [Add a translation](CONTRIBUTING.md#translations) | [Open a pull request](https://github.com/aivideoweb/awesome-wan-3-0-prompts/pulls) |
-|---|---|---|---|
+**[Find a prompt](#start-here) · [Copy a starter](#quick-start) · [Watch examples](#community-videos) · [All 14 categories](#categories)**
 
-![Awesome Wan 3.0 AI video prompt collection](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library](assets/videoweb-wan-3-hero.png)
 
-**Read this collection:** [120 core briefs](prompts/README.md) · [9 X video cases](guides/x-community-showcase.md) · [6 extra practice briefs](prompts/community-practice.md) · [JSON download](downloads/prompts.json) · [Text download](downloads/prompts.txt). The core briefs are inherited writing templates, not verified VideoWeb outputs. Category files are Chinese and English; localized READMEs provide an introduction and a comparison example, not 15 full translations of all 120 briefs. [Source and media provenance](UPSTREAM.md).
+*VideoWeb edition of a community prompt library. This cover is an editorial illustration, not a Wan 3.0 output.*
 
-## Create with VideoWeb AI
+<a id="start-here"></a>
 
-Open [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/), choose text or image input, paste a brief, then select the settings available in the form. Start with one short shot and change one variable at a time. [Step-by-step guide](guides/videoweb-workflow.md) · [X video examples](guides/x-community-showcase.md).
+## Start with what you want to make
 
-## What makes these prompts useful
-
-- Built around visible action and cause-and-effect, not keyword piles.
-- Designed for text-to-video, image-to-video, start/end frames, reference-to-video, and video editing.
-- Includes camera paths, timing, lighting, sound, identity locks, and relevant negative constraints.
-- Works with multilingual visual descriptions and spoken dialogue.
-- Organized with descriptive filenames and semantic headings for search and downstream gallery projects.
-
-## Share a prompt that worked
-
-Useful outside submissions are actively welcome. If a Wan 3.0 prompt produced a result worth studying, use the [guided prompt submission form](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml). One submission should contain one complete prompt, its workflow and settings, a result link or screenshot where possible, and only assets you are allowed to share. Maintainers can then review, test, rewrite for consistency, and place it in the right production category.
-
-You can also submit a pull request for a new scenario, a failure/success comparison, a more natural localization, or an accessibility improvement. Contributions do not need to be English-first: dialogue and on-screen language may use any language when the visual direction and speaker timing remain clear. Read the [contribution guide](CONTRIBUTING.md) before sending media or reference files.
-
-> [!IMPORTANT]
-> Wan 3.0 availability, duration, resolution, reference limits, and audio features may vary by region, product, or preview program. This repository does not invent fixed specifications. Use the controls shown by your current platform. Most templates can also be simplified for Wan 2.6 or 2.7.
-
-## Quick prompt formula
-
-```text
-[Output] duration + aspect ratio + visual medium
-[Subject] reusable identity anchors + immutable details
-[World] time + place + weather + spatial layers
-[Action] trigger → continuous motion → visible result
-[Camera] shot size + angle + one movement path + ending frame
-[Look] light + palette + material + motion treatment
-[Sound] ambience + action sound + music + dialogue, if supported
-[Constraints] what must remain + the most likely failure modes
-```
-
-Minimal example:
-
-```text
-8 seconds, 16:9, naturalistic cinematic footage. At dawn on a rain-washed old street, a young postal worker in a dark green coat rides a vintage bicycle through a shallow puddle. The front wheel parts the water into two low sprays; droplets fall back onto the stone instead of floating. The camera tracks from knee height at the rear-left, starts as a medium environmental shot, moves closer to the hand and bell, then rises toward warm light at the end of the street. Realistic speed and soft overcast light. Sound: tire through water, a distant shop shutter, one clear bicycle bell. Keep the face, coat, bicycle geometry, and travel direction consistent. No text, logos, extra limbs, jump cuts, or floating objects.
-```
-
-## Choose a workflow
-
-| Mode | Prioritize | Reliable instruction pattern |
+| Your goal | Open this brief | What to focus on |
 |---|---|---|
-| T2V | World, subject, action, camera | Describe one event before adding style |
-| I2V | Motion and amplitude | Keep the input composition; specify exactly what moves and by how much |
-| Start/end frames | Explainable transition | Describe the trigger, intermediate physics, and final state |
-| R2V | Clear reference roles | “Image 1 = identity; Video 1 = motion rhythm only” |
-| Video edit | One changed dimension | “Change only the weather; preserve action, timing, subject, and camera” |
-| Audio/dialogue | Speaker timing | Use short lines; identify language, emotion, pause, and silent listener |
+| My first short video | [10-second mug scene](#quick-start) · English | One action and a fixed camera; no input image needed |
+| A product ad | [Folding headphones](prompts/ads-and-products.md#prompt-02) · 中文 | Keep hinges and product geometry consistent |
+| A vertical travel clip | [Seaside stay diary](prompts/ugc-food-travel.md#prompt-02) · 中文 | Four connected shots in 15 seconds |
+| Dialogue with two languages | [Museum welcome](prompts/people-dialogue-localization.md#prompt-01) · English | One speaker at a time; silent listeners |
+| Wildlife close-ups | [Hummingbird at a flower](prompts/nature-animals-seasons.md#prompt-03) · English | Motion, anatomy and a fixed viewpoint |
+| A reusable editing asset | [Green-screen performance](prompts/production-control.md#prompt-01) · English | Full-body framing and clean edges; check reference-mode support |
 
-Read the detailed [prompt engineering guide](guides/prompting-guide.md), [model and platform compatibility notes](guides/model-capabilities.md), and [troubleshooting handbook](guides/troubleshooting.md). These core guides are maintained in Simplified Chinese and include language-independent templates; the VideoWeb getting-started guide is available in English and Chinese.
+[Browse all 120 titles](prompts/README.md) · [6 extra practice briefs](prompts/community-practice.md) · Download the 120 core + 6 practice briefs: [JSON](downloads/prompts.json) / [plain text](downloads/prompts.txt).
 
-## Wan 3.0 overview: one family, four production paths
+The 120 core prompts come from the upstream collection; the 6 extras are separate untested exercises. They are not verified VideoWeb outputs. Category files use Chinese or English. The [15 language editions](locales/README.md) provide introductions and a comparison example, not full translations of every prompt. [Sources and media credits](UPSTREAM.md).
 
-Wan 3.0 is most useful when treated as a production family rather than a single text box. Start from text when the idea is still open, animate a designed keyframe when composition matters, edit an existing clip when only one dimension should change, and use reference-driven generation when identity or motion continuity is the priority. Across all four paths, the prompts in this repository emphasize temporal cause and effect, deliberate camera movement, stable subject anchors, physical motion cues, sound direction, and a short list of shot-specific constraints.
+<a id="quick-start"></a>
 
-| Wan 3.0 path | Best starting material | Best use case | Prompting priority |
-|---|---|---|---|
-| Text to video | A written creative brief | Concept exploration, cinematic scenes, ad ideation | World → action → camera → look |
-| Image to video | A strong first frame, plus an end frame where supported | Product shots, character shots, art direction | Preserve composition; define motion amplitude |
-| Video edit | Existing footage | Weather, wardrobe, material, background, or mood changes | Change one dimension; lock everything else |
-| Reference to video | Identity, style, audio, or motion references | Recurring characters and campaign consistency | Assign one explicit role to each reference |
+## Make your first video on VideoWeb AI
 
-## Learn from community videos
+1. Open [Wan 3.0 on VideoWeb AI](https://videoweb.ai/model/wan-3-0/). For this text-only example, use **Text / Image to Video** and leave **Start Frame** empty.
+2. Set **10 seconds, 16:9** in the form, choose an available resolution and paste the prompt below. Review the displayed charge before generating.
+3. Watch the whole result: the lid should open once, the mug should keep its shape and the camera should stay fixed. If it fails, simplify one action and compare the next result.
 
-These two author threads include complete prompts. Click a preview to watch on X. They are not VideoWeb-generated results; reference inputs and comparison-model labels still matter.
+```text
+10 seconds, 16:9.
 
-### Before the Void Swallows You — @0xbisc
+A plain ceramic travel mug sits on a wooden kitchen counter beside a bright window.
+The camera stays fixed at tabletop height.
+During seconds 0–2 the closed mug remains still.
+During seconds 2–6 an adult hand lifts the hinged lid once and moves out of frame.
+During seconds 6–10 a thin curl of steam rises while the mug stays completely still.
+Soft morning light, realistic ceramic texture.
+If audio is supported: one gentle lid click and quiet room ambience.
+Preserve mug shape, handle position and lid hinge.
+No logos, writing, extra fingers, camera cuts or melting objects.
+```
 
-[![Before the Void Swallows You](https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg)](https://x.com/0xbisc/status/2093296541834653883/video/1)
+This starter is an untested editorial example. It is not the prompt behind a community video. Have a product photo instead? Use **Choose Start Frame**, upload your image and describe how it should move. See the [full step-by-step guide](guides/videoweb-workflow.md).
 
-[Read the author’s complete prompt](https://x.com/0xbisc/status/2093296546926539136) · [Technique and evidence limits](guides/x-community-showcase.md#void-escape)
+**Adapt the settings before copying.** The form checked on 2026-09-22 offered 5, 10, 15, 20, 25 and 30 seconds. For an 8- or 12-second library brief, choose an available duration and retime each action. If 2.39:1 is unavailable, use an offered ratio, leave room around the subject and crop later. Prompt text does not override the form. Audio, end frames, reference inputs and video editing need matching controls in the selected mode.
 
-### Five-shot mountain survival story — @chatgptpaglu
-
-[![Five-shot mountain survival story](https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg)](https://x.com/chatgptpaglu/status/2094710054675157354/video/1)
-
-[Read the author’s complete prompt](https://x.com/chatgptpaglu/status/2094710054675157354) · [Technique and evidence limits](guides/x-community-showcase.md#cable-car-story)
-
-[Browse all 9 source-linked cases](guides/x-community-showcase.md) · [Try 6 separate practice briefs](prompts/community-practice.md)
+<a id="categories"></a>
 
 ## Prompt categories
 
@@ -122,9 +78,78 @@ Need one place to scan every title? Open the [120-scene master index](prompts/RE
 | Nature, animals, and seasons | 10 | wildlife, animal care, weather, macro nature, seasonal change, observatories | [Browse](prompts/nature-animals-seasons.md) |
 | Industrial and manufacturing | 10 | training, cobots, inspection, cold chain, digital twins, multi-SKU production | [Browse](prompts/industrial-manufacturing.md) |
 
-The 120 core scenarios, characters, fictional products and dialogue are adapted from the MIT-licensed upstream collection. Category artwork is inherited illustrative artwork; the VideoWeb hero is newly generated. Community video links retain their original creators. See [provenance](UPSTREAM.md).
+<a id="community-videos"></a>
 
-## Four new practical production packs
+## Learn from community videos
+
+**9 sourced X cases, including 4 with complete author prompts.** These two are useful starting points. Click a preview or the watch link to open the video on X; login may be required. These are third-party results, not VideoWeb reproductions.
+
+### One character, one direction — [@0xbisc](https://x.com/0xbisc)
+
+<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You — watch the original X video" width="440"></a>
+
+Study how the prompt keeps the threat behind the running character and carries the action through 30 seconds. **To reproduce it:** the author's brief requires Image1, which is not supplied here. The post is marked as a paid partnership.
+
+[▶ Watch video](https://x.com/0xbisc/status/2093296541834653883/video/1) · [Read the complete author prompt](https://x.com/0xbisc/status/2093296546926539136) · [Try a separate chase exercise](prompts/community-practice.md#prompt-03) · [Source notes](guides/x-community-showcase.md#void-escape)
+
+### Five connected story beats — [@chatgptpaglu](https://x.com/chatgptpaglu)
+
+<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain story — watch the original X video" width="440"></a>
+
+Study a 30-second fictional mountain story planned as five 6-second shots: read each shot, then check character continuity and how the next action follows from the previous one. The author names Wan 3.0 on Lart; full settings and a seed are not available here.
+
+[▶ Watch video](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [Read the complete author prompt](https://x.com/chatgptpaglu/status/2094710054675157354) · [Source notes](guides/x-community-showcase.md#cable-car-story)
+
+[Browse all 9 cases and their prompt availability](guides/x-community-showcase.md). The [6 practice briefs](prompts/community-practice.md) are separate, untested exercises, not the source prompts for these videos.
+
+## Choose an input and adapt the brief
+
+| What you have | Workflow | What to write or check |
+|---|---|---|
+| Only an idea | Text to video | Describe one event, its setting and one camera movement |
+| A product or character image | Image to video | Upload a start frame; describe motion and what must stay unchanged |
+| An opening and closing image | Start/end frames, where supported | Check for separate input fields; explain the transition between them |
+| Identity, style or motion references | Reference to video, where supported | Give each input one role; a pasted URL is not an uploaded reference |
+| Existing footage to change | Video editing, where supported | Use an actual edit mode; identify one change and preserve everything else |
+| Dialogue or sound | An audio-capable mode | Specify speaker, language, timing and pauses; keep listeners silent |
+
+VideoWeb's starting workflow is covered in the [English guide](guides/videoweb-workflow.md). Broader [prompting advice](guides/prompting-guide.md), [platform compatibility](guides/model-capabilities.md) and [troubleshooting](guides/troubleshooting.md) are in Simplified Chinese. These library workflows do not imply that every mode is available in the VideoWeb form.
+
+## Write a prompt you can revise
+
+```text
+[Output] duration + aspect ratio + visual medium
+[Subject] consistent identifying details + what must not change
+[World] time + place + weather + spatial layers
+[Action] trigger → continuous motion → visible result
+[Camera] shot size + angle + one movement path + ending frame
+[Look] light + palette + material + motion treatment
+[Sound] ambience + action sound + music + dialogue, if supported
+[Constraints] what must remain + the most likely failure modes
+```
+
+<details>
+<summary>10 practical rules for revising a result</summary>
+
+1. Build each short around one primary event.
+2. Repeat three to five identifying details, such as clothing and hair, without changing their wording.
+3. Write motion as “first, then, finally.”
+4. Assign one main camera movement per shot.
+5. For image-to-video, describe motion more than static appearance.
+6. Show speed through water, dust, clothing, parallax, and sound.
+7. Lock product geometry, material, label, cap, and button positions.
+8. Keep dialogue short enough for natural pauses.
+9. Use three to six scene-specific negative constraints.
+10. Add one complex variable per iteration.
+
+</details>
+
+## Explore four production themes
+
+The illustrations below are inherited concept artwork, not generated video results.
+
+<details>
+<summary>Open illustrated collections: commerce, dialogue, nature and manufacturing</summary>
 
 ### Commerce, beauty, and retail
 
@@ -150,6 +175,8 @@ Patient wildlife observation, animal-care routines, macro physics, weather trans
 
 Safety rehearsals, cobot handoffs, facility explainers, inspection, cold-chain continuity, digital-twin overlays, and multi-SKU generation. [Open 10 prompts →](prompts/industrial-manufacturing.md)
 
+</details>
+
 ## Multilingual prompting
 
 Use one main language for the visual description and isolate exact dialogue:
@@ -165,24 +192,15 @@ Avoid duplicating the entire prompt in multiple languages. Keep camera and mater
 
 The [15-language directory](locales/README.md) provides a localized prompt formula and the same complete comparison scene in every supported language: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, French, German, Brazilian Portuguese, Italian, Arabic, Russian, Indonesian, Thai, and Vietnamese.
 
-## Ten practical rules
+## Contribute a prompt or a useful source
 
-1. Build each short around one primary event.
-2. Reuse three to five identity anchors without paraphrasing them.
-3. Write motion as “first, then, finally.”
-4. Assign one main camera movement per shot.
-5. For I2V, describe motion more than static appearance.
-6. Show speed through water, dust, clothing, parallax, and sound.
-7. Lock product geometry, material, label, cap, and button positions.
-8. Keep dialogue short enough for natural pauses.
-9. Use three to six scene-specific negative constraints.
-10. Add one complex variable per iteration.
+- Generated a result worth studying? [Submit a tested prompt](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml) with its exact text, inputs, platform, settings and result. The [generation record](templates/generation-record.md) helps keep those details together.
+- Found another creator's example? [Suggest an external source](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=source.yml), keeping its author and original link.
+- Improving wording or coverage? [Contribute a translation](CONTRIBUTING.md#translations) or [open a pull request](https://github.com/aivideoweb/awesome-wan-3-0-prompts/pulls). Read the [contribution guide](CONTRIBUTING.md) and [maintenance guide](MAINTAINING.md).
 
-## Contributing and license
+## Sources and license
 
-Original prompts, tested comparisons, and natural localizations are welcome. Use the [prompt submission form](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml) for one tested recipe, or open a pull request for a larger category or translation. Do not submit copied prompt libraries, watermarked media, unauthorized celebrity likenesses, protected characters, or imitation of a living artist’s style. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Repository code and original text are provided under the [MIT License](LICENSE). Artwork includes one new VideoWeb hero and seven inherited category illustrations; none is evidence of a Wan video generation. This independent community resource is not an official model-provider publication.
+The 120 core briefs and seven category illustrations come from the MIT-licensed upstream project. VideoWeb adds its own cover, browser guide, source-linked video cases and separate exercises. [UPSTREAM.md](UPSTREAM.md) records the source revision and media credits; [LICENSE](LICENSE) retains the original copyright. Third-party X media stays with its creators. This is a community resource, not an official model-provider publication.
 
 ## VideoWeb AI Affiliate Program
 
