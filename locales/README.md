@@ -1,6 +1,6 @@
 # Wan 3.0 prompt language directory
 
-The repository provides a localized entry guide, a translated prompt formula, and one complete test prompt in each of 15 languages. The 120-scene master catalog remains organized into 14 production categories so improvements are made once and can then be localized carefully.
+The repository provides entry guides in 15 languages. The English and Simplified Chinese homepages use their own examples; each of the other 13 language guides includes a translated prompt formula and one complete comparison example. These comparison examples show how the same scene can be written naturally in different languages, but they have not been generated or verified on VideoWeb. The 120-scene master catalog remains organized into 14 production categories so improvements are made once and can then be localized carefully.
 
 Native speakers are welcome to improve wording, regional tone, dialogue timing, or safety terminology. Submit a small correction through a pull request, or use the [guided prompt form](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml) for one complete localized prompt. Follow the [translation checklist](../CONTRIBUTING.md#translations) and never include private media or text you cannot relicense.
 
@@ -33,8 +33,9 @@ Every localized README links to VideoWeb AI's Wan 3.0 browser page and affiliate
 5. Replace culture-specific settings only when the physical action and production goal remain equivalent.
 6. Have a fluent speaker review naturalness, safety wording, and regional variants before publishing.
 
-## Shared comparison scene
+## Localized comparison scene
 
-Every localized guide contains the same rainy-street bicycle scene. It provides a compact comparison of action causality, camera direction, sound, identity continuity, and exclusions without depending on culturally sensitive dialogue.
+<!-- comparison-example-status: untested -->
+The 13 language guides other than the English and Simplified Chinese homepages use the same rainy-street bicycle scene. It provides a compact comparison of localized wording for action causality, camera direction, sound, identity continuity, and exclusions without depending on culturally sensitive dialogue. These comparison examples have not been generated or verified on VideoWeb; the English and Simplified Chinese homepages use different examples.
 
 Contributions of complete localized prompt packs are welcome. Follow the originality and review requirements in [CONTRIBUTING.md](../CONTRIBUTING.md).

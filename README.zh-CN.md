@@ -129,6 +129,7 @@
 
 ## 从视频案例学习
 
+<!-- BEGIN GENERATED X CASES -->
 **9 个 X 案例，其中 4 个可在作者原帖查看完整提示词。** 下面直接展示全部 9 个案例的预览图。点击图片或播放链接进入 X，可能需要登录。这些是第三方作品，并非本仓库在 VideoWeb 上复现的结果。
 
 ### 全部 9 个案例一览
@@ -151,21 +152,21 @@
 
 ### 单一角色与追逐方向 — [@0xbisc](https://x.com/0xbisc)
 
-<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You，点击观看 X 原帖视频" width="100%"></a>
+<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="虚空追逐" width="100%"></a>
 
 对照提示词观察：30 秒里如何保持角色一致，让威胁始终位于逃跑方向后方。 **复现前注意：** 作者提示词需要 Image1 参考图，仓库未提供；原帖标有付费合作。
 
-[▶ 观看视频](https://x.com/0xbisc/status/2093296541834653883/video/1) · [作者完整提示词](https://x.com/0xbisc/status/2093296546926539136) · [另一条追逐练习](prompts/community-practice.md#prompt-03) · [来源与限制](guides/x-community-showcase.md#void-escape)
+**作者原文完整** · [▶ 观看原帖视频](https://x.com/0xbisc/status/2093296541834653883/video/1) · [作者完整提示词](https://x.com/0xbisc/status/2093296546926539136) · [另一条追逐练习](prompts/community-practice.md#prompt-03) · [来源、全部附件与限制](guides/x-community-showcase.md#void-escape)
 
 <a id="case-cable-car-story"></a>
 
 ### 五个镜头连接一个故事 — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
-<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="五镜头山地故事，点击观看 X 原帖视频" width="100%"></a>
+<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="五镜头山地故事" width="100%"></a>
 
 作者将 30 秒虚构山地故事拆成五个 6 秒镜头。先读每段动作，再观察人物是否连贯、下一步是否承接上一步。这是故事创作案例，不是逃生指导。原帖注明使用 Lart 上的 Wan 3.0，未提供完整生成参数。
 
-[▶ 观看视频](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [作者完整提示词](https://x.com/chatgptpaglu/status/2094710054675157354) · [来源与限制](guides/x-community-showcase.md#cable-car-story)
+**作者原文完整** · [▶ 观看原帖视频](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [作者完整提示词](https://x.com/chatgptpaglu/status/2094710054675157354) · [来源、全部附件与限制](guides/x-community-showcase.md#cable-car-story)
 
 <a id="case-arena-boxing"></a>
 
@@ -238,6 +239,7 @@
 **作者原文完整** · [▶ 观看原帖视频](https://x.com/iam_mian7/status/2097613778796126569/video/1) · [作者完整提示词](https://x.com/iam_mian7/status/2097613778796126569) · [来源、全部附件与限制](guides/x-community-showcase.md#neon-stage)
 
 [查看全部 9 个案例及提示词完整情况](guides/x-community-showcase.md)。[6 条补充练习](prompts/community-practice.md)是独立编写、尚未实测的练习，不是这些视频的原始提示词。
+<!-- END GENERATED X CASES -->
 
 ## 四个实用专题
 
@@ -348,7 +350,9 @@ VideoWeb 的具体操作见[入门指南](guides/videoweb-workflow.zh-CN.md)。�
 
 ## 🌍 多语言提示策略
 
-Wan 工作流通常可以理解多语言提示。为了让画面与台词更稳定，建议把“描述语言”和“对白语言”分开：
+<!-- comparison-example-status: untested -->
+
+以下对白示例用于比较提示词写法，尚未在 VideoWeb 生成验证。将画面描述与对白语言分别写清楚：
 
 ```text
 Visual description: English cinematic production language.

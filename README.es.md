@@ -59,7 +59,10 @@ Abre [Wan 3.0 en VideoWeb AI](https://videoweb.ai/model/wan-3-0/), elige texto o
 | Naturaleza, animales y estaciones | 10 | [Ver](prompts/nature-animals-seasons.md) |
 | Industria y fabricación | 10 | [Ver](prompts/industrial-manufacturing.md) |
 
-## Prompt de prueba completo
+## Ejemplo comparativo completo
+
+<!-- comparison-example-status: untested -->
+Este ejemplo sirve para comparar la redacción entre idiomas. Todavía no se ha usado para generar ni verificar un vídeo en VideoWeb.
 
 ```text
 8 segundos, 16:9, imagen cinematográfica naturalista. Al amanecer, en una calle antigua mojada por la lluvia, un joven cartero con abrigo verde oscuro cruza un charco poco profundo en una bicicleta clásica. La rueda delantera divide el agua en dos salpicaduras bajas; las gotas vuelven al empedrado en lugar de flotar. La cámara acompaña de forma estable desde atrás a la izquierda, a la altura de la rodilla, comienza con un plano medio que muestra la calle, se acerca a la mano y al timbre y después se eleva hacia la luz cálida al final de la calle. Sonido: neumático en el agua, una persiana metálica lejana y un timbre de bicicleta claro. Mantener el rostro, el abrigo, la geometría de la bicicleta y la dirección. Sin texto, logotipos, extremidades adicionales, saltos de montaje ni objetos flotantes.

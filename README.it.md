@@ -26,7 +26,10 @@ Apri [Wan 3.0 su VideoWeb AI](https://videoweb.ai/model/wan-3-0/), scegli testo 
 [Vincoli] cosa deve restare invariato + errori più probabili
 ```
 
-## Prompt di prova completo
+## Esempio di confronto completo
+
+<!-- comparison-example-status: untested -->
+Questo esempio serve a confrontare la formulazione nelle diverse lingue. Non è ancora stato usato per generare o verificare un video su VideoWeb.
 
 ```text
 8 secondi, 16:9, ripresa cinematografica naturalistica. All’alba, in una vecchia strada bagnata dalla pioggia, un giovane postino con un cappotto verde scuro attraversa una pozzanghera poco profonda su una bicicletta d’epoca. La ruota anteriore divide l’acqua in due spruzzi bassi; le gocce ricadono sul selciato senza restare sospese. La camera segue stabilmente da dietro a sinistra, all’altezza del ginocchio, parte con un campo medio dell’ambiente, si avvicina alla mano e al campanello, poi sale verso la luce calda in fondo alla strada. Audio: ruota nell’acqua, serranda lontana, un campanello nitido. Mantenere volto, cappotto, geometria della bicicletta e direzione. Niente testo, loghi, arti extra, salti di montaggio o oggetti fluttuanti.

@@ -26,7 +26,11 @@
 
 This is an untested editorial brief. It is not the prompt used for any linked community video.
 
+<a id="adapt-settings"></a>
+
 ## Adapt a longer or more advanced brief
+
+In the source templates, T2V means text-to-video, I2V means image-to-video, and R2V means reference-to-video. These are workflow labels, not necessarily buttons or modes available on VideoWeb.
 
 - **Unsupported duration:** the inspected text-mode form offered 5, 10, 15, 20, 25 and 30 seconds. For an 8- or 12-second source brief, choose a suitable offered duration and retime every beat; prompt text cannot create a missing duration option.
 - **Unsupported aspect ratio:** choose an available ratio, keep the important action away from the edges, then crop in an editor. A brief requesting 2.39:1 does not mean the form offers it.

@@ -26,7 +26,10 @@ Sie können einen [getesteten Prompt über das Formular einreichen](https://gith
 [Grenzen] was gleich bleiben muss + wahrscheinlichste Fehler
 ```
 
-## Vollständiger Testprompt
+## Vollständiges Vergleichsbeispiel
+
+<!-- comparison-example-status: untested -->
+Dieses Beispiel dient zum Vergleich der Formulierungen in den verschiedenen Sprachen. Es wurde noch nicht zur Videogenerierung oder Überprüfung auf VideoWeb verwendet.
 
 ```text
 8 Sekunden, 16:9, naturalistische Filmaufnahme. Im Morgengrauen fährt ein junger Briefträger in einem dunkelgrünen Mantel auf einem alten Fahrrad durch eine flache Pfütze in einer regennassen Altstadtstraße. Das Vorderrad teilt das Wasser in zwei niedrige Spritzer; die Tropfen fallen auf das Pflaster zurück und schweben nicht. Die Kamera folgt stabil von links hinten auf Kniehöhe, beginnt mit einer mittleren Umgebungsaufnahme, nähert sich Hand und Klingel und steigt dann zum warmen Licht am Ende der Straße auf. Ton: Reifen im Wasser, ein entfernter Rollladen, eine klare Fahrradklingel. Gesicht, Mantel, Fahrradgeometrie und Fahrtrichtung bleiben unverändert. Kein Text, Logo, zusätzliche Gliedmaßen, Sprungschnitt oder schwebendes Objekt.

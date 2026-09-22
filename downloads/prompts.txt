@@ -1,6 +1,10 @@
 Wan 3.0 — VideoWeb AI
 120 upstream templates + 6 untested practice briefs.
-Source and rights: ../UPSTREAM.md
+Source and rights: https://github.com/aivideoweb/awesome-wan-3-0-prompts/blob/main/UPSTREAM.md
+Settings are creative targets, not guaranteed VideoWeb controls. These templates have not each been generated and verified on VideoWeb. Choose available duration and aspect ratio in the form, retime all action beats, and use reference/edit/audio instructions only when the selected mode provides those controls.
+Settings guide: https://github.com/aivideoweb/awesome-wan-3-0-prompts/blob/main/guides/videoweb-workflow.md#adapt-settings
+参数为创作目标，不保证当前界面均可选择；尚未逐条在 VideoWeb 生成验证。请先选择可用参数并调整所有动作时间段。
+中文适配说明：https://github.com/aivideoweb/awesome-wan-3-0-prompts/blob/main/guides/videoweb-workflow.zh-CN.md#adapt-settings
 
 action-sports-01 | 01｜暴雨高架摩托追逐
 **模式**：T2V / R2V　**建议**：10 秒，2.39:1

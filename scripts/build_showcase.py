@@ -2,6 +2,7 @@
 """Build the source-linked X gallery from data/x-cases.json."""
 from pathlib import Path
 import argparse,json
+from homepage_showcase import updated_homepage
 ROOT=Path(__file__).resolve().parents[1]
 LABELS={
  'complete_prompt_at_source':'Complete prompt at author source / 作者原文完整',
@@ -62,4 +63,11 @@ if __name__=='__main__':
     if a.check:
         if not p.exists() or p.read_text()!=s:raise SystemExit('Stale X gallery; run scripts/build_showcase.py')
     else:p.write_text(s)
-    print('PASS: X gallery matches source catalog')
+    cases=json.loads((ROOT/'data/x-cases.json').read_text())
+    for name, language in [('README.md', 'en'), ('README.zh-CN.md', 'zh')]:
+        page=ROOT/name
+        expected=updated_homepage(page.read_text(), cases, language)
+        if a.check:
+            if page.read_text()!=expected:raise SystemExit(f'Stale homepage: {name}; run scripts/build_showcase.py')
+        else:page.write_text(expected)
+    print('PASS: X gallery and both homepages match source catalog')

@@ -1,12 +1,18 @@
 # Professional Business and Public-Service Video Prompts for Wan 3.0
 
-These original prompts focus on credible communication rather than invented claims. Replace fictional names and UI copy only with information you are authorized to publish.
+<!-- core-template-context -->
+
+These core briefs come from the [Flaq AI source collection](../UPSTREAM.md) and have not each been generated and verified on VideoWeb. Durations, aspect ratios and modes are creative targets, not a list of available controls. Before copying, read the [VideoWeb settings guide](../guides/videoweb-workflow.md#adapt-settings); save your settings and results with the [generation record](../templates/generation-record.md).
+
+These upstream-derived prompts focus on credible communication rather than invented claims. Replace fictional names and UI copy only with information you are authorized to publish.
 
 <a id="prompt-01"></a>
 
 ## 01｜Calm analytics workspace launch
 
 **Mode**: T2V / I2V　**Suggested**: 12 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 12 seconds, 16:9, restrained launch film for a fictional team analytics workspace called Northline. Do not invent performance numbers, client logos, or awards.
@@ -23,6 +29,8 @@ Audio: keyboard, paper card, distant ventilation, one soft notification; minimal
 ## 02｜Independent craft course vertical ad
 
 **Mode**: R2V / T2V　**Suggested**: 15 seconds, 9:16
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 9:16, credible creator-course ad for an original ceramic artist. Identity lock: 40-year-old instructor, short wavy hair, moss-green apron, small silver hoop earrings; keep the same face, hands, apron, studio, and wheel.
@@ -41,6 +49,8 @@ Audio: real voice, pottery wheel, wet clay, quiet studio. No invented testimonia
 
 **Mode**: Audio-driven / R2V　**Suggested**: 18 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 18 seconds, 16:9, documentary podcast trailer in a small independent studio. Three hosts remain fixed: a Spanish-speaking woman in a red cardigan on frame left, an Arabic-speaking man in a gray shirt at center, and an English-speaking woman in a denim jacket on frame right. Preserve faces, microphones, seating, and eyelines.
 
@@ -57,6 +67,8 @@ Audio priorities: exact voices, room tone, tape click, distant market sound, no 
 ## 04｜Rural telehealth appointment check-in
 
 **Mode**: T2V / I2V　**Suggested**: 15 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 16:9, reassuring public-service walkthrough for a fictional telehealth kiosk in a rural community center. No diagnosis, treatment claim, patient data, or real medical brand.
@@ -76,6 +88,8 @@ Audio: room ambience, soft interface confirmation, staff says, “You’re in co
 
 **Mode**: T2V / Edit　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, inclusive welcome film for a fictional evening design conference. Show accessibility as part of the real journey, not as a symbolic montage.
 
@@ -91,6 +105,8 @@ Audio: doors, lobby ambience, short spoken welcome, clear but quiet room tone. N
 ## 06｜Circular shipping package explainer
 
 **Mode**: T2V / I2V　**Suggested**: 12 seconds, 1:1
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 12 seconds, 1:1, clean material explainer for a fictional reusable shipping box. Product lock: matte blue-gray rectangular case, two green corner latches, fold-flat inner divider, blank tracking patch; preserve dimensions, latch count, divider, and color.
@@ -108,6 +124,8 @@ Audio: latch clicks, cardboard-fabric fold, scan tone. Neutral daylight and hone
 
 **Mode**: R2V / T2V　**Suggested**: 15 seconds, 2.39:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 2.39:1, atmospheric teaser for an original community sound archive. The exhibition contains donated cassette players, headphones, photographs with no readable personal data, and a circular listening table.
 
@@ -124,6 +142,8 @@ Audio transitions from tape hiss to a distant tram bell, market voices, and rain
 
 **Mode**: T2V / Previs　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, clear visual explainer of a fictional neighborhood solar-and-storage system. Use a realistic block with six homes, one community center, rooftop panels, a battery room, and an existing utility connection; preserve building count and cable routes.
 
@@ -139,6 +159,8 @@ Audio: light neighborhood ambience and subtle electrical hum. No “free energy�
 ## 09｜Cold-chain parcel status walkthrough
 
 **Mode**: I2V / Edit　**Suggested**: 14 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 14 seconds, 16:9, operational walkthrough for a fictional temperature-sensitive food parcel. Package lock: white insulated tote, blue zipper, one blank e-ink status tile, two sealed meal trays; preserve product count, seal state, and tote geometry.
@@ -157,6 +179,8 @@ Audio: scanner, zipper, vehicle ambience, locker click. No invented compliance c
 
 **Mode**: T2V / I2V　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, calm consumer-safety walkthrough for a fictional bank app, focused on recognizing and reporting a suspicious card alert without showing real financial data or promising reimbursement.
 
@@ -172,6 +196,8 @@ Audio: one notification, two confirmation tones, narrator: “Open the trusted a
 ## 11｜Remote equipment repair support session
 
 **Mode**: R2V / Edit　**Suggested**: 18 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 18 seconds, 16:9, practical field-service training film. A technician in safety glasses and navy coveralls repairs a fictional compact packaging machine while a remote specialist appears on a rugged tablet. Machine lock: red isolation handle, transparent guard, two rollers, one sensor bracket; preserve all parts and safety state.

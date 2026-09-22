@@ -26,7 +26,10 @@ Ouvrez [Wan 3.0 sur VideoWeb AI](https://videoweb.ai/model/wan-3-0/), choisissez
 [Contraintes] éléments à préserver + erreurs les plus probables
 ```
 
-## Prompt test complet
+## Exemple comparatif complet
+
+<!-- comparison-example-status: untested -->
+Cet exemple sert à comparer la formulation dans les différentes langues. Il n’a pas encore été utilisé pour générer ni vérifier une vidéo sur VideoWeb.
 
 ```text
 8 secondes, 16:9, image cinématographique naturaliste. À l’aube, dans une vieille rue mouillée par la pluie, un jeune facteur en manteau vert foncé traverse une flaque peu profonde sur un vélo ancien. La roue avant sépare l’eau en deux projections basses ; les gouttes retombent sur les pavés au lieu de flotter. La caméra suit depuis l’arrière gauche à hauteur du genou, commence par un plan moyen montrant la rue, se rapproche de la main et de la sonnette, puis s’élève vers la lumière chaude au bout de la rue. Son : pneu dans l’eau, rideau métallique lointain, une sonnette claire. Conserver le visage, le manteau, la géométrie du vélo et le sens du déplacement. Aucun texte, logo, membre supplémentaire, saut de plan ni objet flottant.

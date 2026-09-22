@@ -26,7 +26,10 @@ Mở [Wan 3.0 trên VideoWeb AI](https://videoweb.ai/model/wan-3-0/), chọn vă
 [Ràng buộc] điều phải giữ nguyên + lỗi dễ xảy ra nhất
 ```
 
-## Prompt thử nghiệm hoàn chỉnh
+## Ví dụ so sánh hoàn chỉnh
+
+<!-- comparison-example-status: untested -->
+Ví dụ này dùng để so sánh cách diễn đạt giữa các ngôn ngữ và chưa được dùng để tạo hoặc kiểm chứng video trên VideoWeb.
 
 ```text
 8 giây, 16:9, hình ảnh điện ảnh tự nhiên và chân thực. Lúc bình minh trên con phố cổ còn ướt sau mưa, một người đưa thư trẻ mặc áo khoác xanh đậm đạp chiếc xe đạp cổ qua vũng nước nông. Bánh trước tách nước thành hai dải bắn thấp; các giọt rơi trở lại mặt đá thay vì lơ lửng. Máy quay bám ổn định từ phía sau bên trái ở độ cao đầu gối, bắt đầu bằng trung cảnh giới thiệu con phố, tiến gần bàn tay và chuông xe, rồi nâng lên hướng tới ánh sáng ấm ở cuối đường. Âm thanh: lốp xe qua nước, cửa cuốn cửa hàng ở xa, một tiếng chuông xe rõ. Giữ nguyên khuôn mặt, áo khoác, hình học xe đạp và hướng di chuyển. Không chữ, logo, chi thừa, cắt nhảy hoặc vật thể bay lơ lửng.

@@ -1,5 +1,9 @@
 # Production Control, Editing, and Reference Workflows for Wan 3.0
 
+<!-- core-template-context -->
+
+These core briefs come from the [Flaq AI source collection](../UPSTREAM.md) and have not each been generated and verified on VideoWeb. Durations, aspect ratios and modes are creative targets, not a list of available controls. Before copying, read the [VideoWeb settings guide](../guides/videoweb-workflow.md#adapt-settings); save your settings and results with the [generation record](../templates/generation-record.md).
+
 These prompts are designed for reusable production assets: clean plates, previs, geometry tests, multi-reference role assignment, local edits, aspect-ratio planning, and seamless loops.
 
 <a id="prompt-01"></a>
@@ -7,6 +11,8 @@ These prompts are designed for reusable production assets: clean plates, previs,
 ## 01｜Green-screen cape performance plate
 
 **Mode**: R2V / Green-screen generation　**Suggested**: 10 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 10 seconds, 16:9, full-body performance plate on an evenly lit chroma-green cyclorama. Original adult performer wears a charcoal fitted motion costume and a long matte ivory cape with no reflective trim. Preserve face, body proportions, costume, cape length, and screen color.
@@ -24,6 +30,8 @@ Production constraints: uniform green without gradients, tracking markers only i
 
 **Mode**: Previs / T2V　**Suggested**: 15 seconds, 2.39:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 2.39:1, untextured white-model previsualization for an original warehouse conversation scene. Set lock: six columns, loading door, staircase, two crates, overhead walkway. Characters are neutral gray mannequins A and B with clear chest letters represented only as simple colored shapes, not generated text.
 
@@ -40,6 +48,8 @@ Use uniform diffuse lighting, no textures, no facial animation, no final-film at
 
 **Mode**: I2V / Product test　**Suggested**: 12 seconds, 1:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 12 seconds, 1:1, neutral ecommerce geometry test. Product lock: original low-top sneaker with off-white canvas upper, dark teal heel panel, gum sole, seven eyelets per side, flat cream laces, no logo. Preserve silhouette, eyelet count, stitching, colors, and sole thickness.
 
@@ -53,6 +63,8 @@ Audio: quiet turntable motor only. No camera orbit, no foot inside, no lace move
 ## 04｜Start-to-end frame clay portrait transition
 
 **Mode**: Start/end frames　**Suggested**: 14 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 14 seconds, 16:9, controlled stop-motion transition from the provided first frame of a rough clay block to the provided final frame of an original simplified portrait bust. Preserve table, rotating base, sculptor hands, tool set, background, and lighting from both anchors.
@@ -70,6 +82,8 @@ Audio: tactile clay and tool sounds, no music. No human skin transformation, no 
 
 **Mode**: Video edit　**Suggested**: preserve source duration and ratio
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 Edit only the weather visible through the office windows, changing a clear afternoon into gentle early winter snow. Preserve every interior pixel relationship: the two employees, faces, clothing, hand actions, computer screens, desk objects, reflections, camera path, focus changes, timing, and room lighting.
 
@@ -83,6 +97,8 @@ Keep the original audio exactly unchanged. No identity edits, wardrobe edits, ne
 ## 06｜One scene planned for three aspect ratios
 
 **Mode**: T2V / Previs　**Suggested**: 10 seconds, master 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 10 seconds, master 16:9 composition designed to crop safely to 1:1 and 9:16. Original scene: a bicycle mechanic in a cobalt apron pumps a repaired tire at the center of a compact workshop. Keep face, apron, bicycle, pump, and background tools consistent.
@@ -99,6 +115,8 @@ Audio: pump, freewheel, workshop ambience. No lateral camera move, off-center su
 ## 07｜Three references with one role each
 
 **Mode**: R2V　**Suggested**: 15 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 Reference roles are strict and separate:
@@ -117,6 +135,8 @@ Audio: original percussion matched to five beats, no copied music. Preserve iden
 
 **Mode**: I2V / T2V　**Suggested**: 12 seconds, 9:16
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 12 seconds, 9:16, clean fictional smart-home interaction demo. Phone lock: black device, blank status bar, three large abstract room cards; room lock: one warm table lamp, closed blinds, ceiling light off. Do not require small readable text.
 
@@ -132,6 +152,8 @@ Audio: two subtle interface tones and room tone. No floating holograms, unreadab
 ## 09｜Seamless loop with matched first and last frame
 
 **Mode**: T2V / Start-end frames　**Suggested**: 8 seconds, 1:1 loop
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 8 seconds, 1:1, seamless photoreal tabletop loop. A clear glass marble travels through an original small brass kinetic sculpture: left ramp, central circular track, right lever, and return channel. Lock camera, sculpture geometry, marble size, lighting, and background.
@@ -150,6 +172,8 @@ Audio forms an eight-beat mechanical loop with brass clicks aligned to contacts.
 
 **Mode**: R2V / Production reference　**Suggested**: 12 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 12 seconds, 16:9, neutral continuity-reference plate for an original café character. Identity lock: adult actor with short dark curls, mustard cardigan, white collar, black watch on left wrist. Prop lock: blue ceramic cup with chipped handle, folded newspaper, silver pen. Preserve every side and placement.
 
@@ -165,6 +189,8 @@ Audio: slate clap once, room tone, cup contact. No performance emotion, costume 
 ## 11｜Clean background plate and controlled object removal
 
 **Mode**: Video edit / Clean plate　**Suggested**: preserve source duration and ratio
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 Create two matched deliverables from the original locked-off 8-second street-corner shot.

@@ -146,6 +146,7 @@ cuts.
 
 ## Learn from community videos
 
+<!-- BEGIN GENERATED X CASES -->
 **9 sourced X cases, including 4 with complete author prompts.** All 9 cases have expanded previews below. Click a preview or the watch link to open the video on X; login may be required. These are third-party results, not VideoWeb reproductions.
 
 ### All 9 cases at a glance
@@ -162,27 +163,27 @@ cuts.
 | [Native-audio early-access demo](#case-native-audio) | Listen for action sounds and how they align with visible motion. | Demo; prompt not retrieved |
 | [Action choreography and aspect-ratio mismatch](#case-neon-stage) | Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. | Complete at author source |
 
-Some posts compare several models; their attachments are not all confirmed Wan outputs. Complete prompt text does not mean all reference inputs or settings are available. Each case page records what is missing.
+Some posts compare several models; their attachments are not all confirmed Wan outputs. Complete prompt text does not mean all reference inputs or settings are available. Each case records what is missing.
 
 <a id="case-void-escape"></a>
 
 ### One character, one direction — [@0xbisc](https://x.com/0xbisc)
 
-<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You — watch the original X video" width="100%"></a>
+<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You" width="100%"></a>
 
 Study how the prompt keeps the threat behind the running character and carries the action through 30 seconds. **To reproduce it:** the author's brief requires Image1, which is not supplied here. The post is marked as a paid partnership.
 
-[▶ Watch video](https://x.com/0xbisc/status/2093296541834653883/video/1) · [Read the complete author prompt](https://x.com/0xbisc/status/2093296546926539136) · [Try a separate chase exercise](prompts/community-practice.md#prompt-03) · [Source notes](guides/x-community-showcase.md#void-escape)
+**Complete at author source** · [▶ Watch original video](https://x.com/0xbisc/status/2093296541834653883/video/1) · [Complete author prompt](https://x.com/0xbisc/status/2093296546926539136) · [Try a separate chase exercise](prompts/community-practice.md#prompt-03) · [Source, all attachments and limitations](guides/x-community-showcase.md#void-escape)
 
 <a id="case-cable-car-story"></a>
 
 ### Five connected story beats — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
-<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain story — watch the original X video" width="100%"></a>
+<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain survival story" width="100%"></a>
 
 Study a 30-second fictional mountain story planned as five 6-second shots: read each shot, then check character continuity and how the next action follows from the previous one. The author names Wan 3.0 on Lart; full settings and a seed are not available here.
 
-[▶ Watch video](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [Read the complete author prompt](https://x.com/chatgptpaglu/status/2094710054675157354) · [Source notes](guides/x-community-showcase.md#cable-car-story)
+**Complete at author source** · [▶ Watch original video](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [Complete author prompt](https://x.com/chatgptpaglu/status/2094710054675157354) · [Source, all attachments and limitations](guides/x-community-showcase.md#cable-car-story)
 
 <a id="case-arena-boxing"></a>
 
@@ -202,7 +203,7 @@ Readable action with two distinct bodies and one stable setting. The author labe
 
 Explicit shot count, screen direction, color assignment and accumulating environmental damage. The linked reply contains the full 15-second, seven-shot brief. The parent compares THREE models. This preview shows the first comparison attachment; its model has not been verified. Do not treat it as a confirmed Wan result. All three attachments are available in the source notes.
 
-**Complete prompt at author source** · [▶ Watch original video](https://x.com/Dani__oros/status/2084474998459396477/video/1) · [Complete author prompt](https://x.com/Dani__oros/status/2084475003223896189) · [Source, all attachments and limitations](guides/x-community-showcase.md#seven-shot-fight)
+**Complete at author source** · [▶ Watch original video](https://x.com/Dani__oros/status/2084474998459396477/video/1) · [Complete author prompt](https://x.com/Dani__oros/status/2084475003223896189) · [Source, all attachments and limitations](guides/x-community-showcase.md#seven-shot-fight)
 
 <a id="case-tv-opening"></a>
 
@@ -252,9 +253,10 @@ Listen for action sounds and how they align with visible motion. Provider announ
 
 Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. The author publishes the full prompt and one video, identifies Wan 3.0 on BudgetPixel, and labels the post Paid partnership. The requested 15-second portrait setup is stated in the prompt. Character and action quality has not been reproduced on VideoWeb. The prompt asks for 9:16, but the attached video container is 1280 × 720 (16:9). Treat this as a visible specification mismatch, not a verified portrait result.
 
-**Complete prompt at author source** · [▶ Watch original video](https://x.com/iam_mian7/status/2097613778796126569/video/1) · [Complete author prompt](https://x.com/iam_mian7/status/2097613778796126569) · [Source, all attachments and limitations](guides/x-community-showcase.md#neon-stage)
+**Complete at author source** · [▶ Watch original video](https://x.com/iam_mian7/status/2097613778796126569/video/1) · [Complete author prompt](https://x.com/iam_mian7/status/2097613778796126569) · [Source, all attachments and limitations](guides/x-community-showcase.md#neon-stage)
 
 [Browse all 9 cases and their prompt availability](guides/x-community-showcase.md). The [6 practice briefs](prompts/community-practice.md) are separate, untested exercises, not the source prompts for these videos.
+<!-- END GENERATED X CASES -->
 
 ## Explore four production themes
 
@@ -353,7 +355,9 @@ VideoWeb's starting workflow is covered in the [English guide](guides/videoweb-w
 
 ## Multilingual prompting
 
-Use one main language for the visual description and isolate exact dialogue:
+<!-- comparison-example-status: untested -->
+
+The following dialogue example illustrates prompt structure; it has not been generated or verified on VideoWeb. Use one main language for the visual description and isolate exact dialogue:
 
 ```text
 Visual description: English cinematic production language.
@@ -364,7 +368,7 @@ No subtitles. The listener keeps their mouth closed and reacts with one small no
 
 Avoid duplicating the entire prompt in multiple languages. Keep camera and material terminology in the main language; preserve only exact spoken or on-screen text in its target language.
 
-The [15-language directory](locales/README.md) provides a localized prompt formula and the same complete comparison scene in every supported language: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, French, German, Brazilian Portuguese, Italian, Arabic, Russian, Indonesian, Thai, and Vietnamese.
+The [15-language directory](locales/README.md) links to introductions and examples in 15 languages. The 13 guides other than English and Simplified Chinese share a bicycle scene; the English and Simplified Chinese homepages use different examples. Available languages: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, French, German, Brazilian Portuguese, Italian, Arabic, Russian, Indonesian, Thai, and Vietnamese.
 
 ## Contribute a prompt or a useful source
 

@@ -26,7 +26,10 @@ Abra o [Wan 3.0 no VideoWeb AI](https://videoweb.ai/model/wan-3-0/), escolha tex
 [Restrições] o que deve permanecer + falhas mais prováveis
 ```
 
-## Prompt de teste completo
+## Exemplo completo para comparação
+
+<!-- comparison-example-status: untested -->
+Este exemplo serve para comparar a redação entre os idiomas. Ele ainda não foi usado para gerar nem verificar um vídeo no VideoWeb.
 
 ```text
 8 segundos, 16:9, filmagem cinematográfica naturalista. Ao amanhecer, numa rua antiga molhada pela chuva, um jovem carteiro com casaco verde-escuro atravessa uma poça rasa em uma bicicleta antiga. A roda dianteira divide a água em dois respingos baixos; as gotas voltam ao piso de pedra em vez de flutuar. A câmera acompanha de forma estável pela traseira esquerda, na altura do joelho, começa com um plano médio do ambiente, aproxima-se da mão e da campainha e sobe em direção à luz quente no fim da rua. Som: pneu na água, porta metálica distante, uma campainha nítida. Manter rosto, casaco, geometria da bicicleta e direção do movimento. Sem texto, logotipo, membros extras, corte brusco ou objetos flutuantes.

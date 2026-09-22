@@ -33,7 +33,22 @@
       "sha256": "20139d09ab9232ec94a4ac034f9452f427728b71a41dd30d7b8d3d6ce6739355",
       "verification": "Full author reply expanded on native X and cross-checked via reader API; text remains at author source."
     },
-    "practice_id": "03"
+    "practice_id": "03",
+    "homepage": {
+      "order": 0,
+      "en": {
+        "title": "Before the Void Swallows You",
+        "heading": "One character, one direction",
+        "lesson": "One-character continuity and a threat kept behind the direction of travel.",
+        "description": "Study how the prompt keeps the threat behind the running character and carries the action through 30 seconds. **To reproduce it:** the author's brief requires Image1, which is not supplied here. The post is marked as a paid partnership."
+      },
+      "zh": {
+        "title": "虚空追逐",
+        "heading": "单一角色与追逐方向",
+        "lesson": "单一角色和追逐方向",
+        "description": "对照提示词观察：30 秒里如何保持角色一致，让威胁始终位于逃跑方向后方。 **复现前注意：** 作者提示词需要 Image1 参考图，仓库未提供；原帖标有付费合作。"
+      }
+    }
   },
   {
     "id": "arena-boxing",
@@ -64,7 +79,22 @@
     "model_evidence": "Wan 3.0",
     "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
     "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
-    "practice_id": "04"
+    "practice_id": "04",
+    "homepage": {
+      "order": 2,
+      "en": {
+        "title": "Rainy arena fight",
+        "heading": "Rainy arena fight",
+        "lesson": "Readable action with two distinct bodies and one stable setting.",
+        "description": "Readable action with two distinct bodies and one stable setting. The author labels this a Wan 3.0 17-second test. The prompt reply links to Telegram; that external prompt was not verified. No source prompt is reproduced."
+      },
+      "zh": {
+        "title": "雨中擂台对打",
+        "heading": "雨中擂台对打",
+        "lesson": "双人动作与空间关系",
+        "description": "观察两个人的位置、出拳方向，以及动作是否保持清楚。作者称这是 17 秒测试；提示词回复指向 Telegram，外链内容尚未核验。"
+      }
+    }
   },
   {
     "id": "seven-shot-fight",
@@ -116,7 +146,22 @@
       "sha256": "e864403efbbe9b8208124eb07f95cd93b8197aaf60049bbcdccf3f351d2fc412",
       "verification": "Full author reply retrieved via reader API; text remains at author source."
     },
-    "practice_id": "04"
+    "practice_id": "04",
+    "homepage": {
+      "order": 3,
+      "en": {
+        "title": "Seven-shot animation comparison",
+        "heading": "Seven-shot animation comparison",
+        "lesson": "Explicit shot count, screen direction, color assignment and accumulating environmental damage.",
+        "description": "Explicit shot count, screen direction, color assignment and accumulating environmental damage. The linked reply contains the full 15-second, seven-shot brief. The parent compares THREE models. This preview shows the first comparison attachment; its model has not been verified. Do not treat it as a confirmed Wan result. All three attachments are available in the source notes."
+      },
+      "zh": {
+        "title": "七镜头动画对比",
+        "heading": "七镜头动画对比",
+        "lesson": "多镜头与方向连续",
+        "description": "观察七个镜头中的运动方向、角色配色和环境破坏是否连续。作者回复提供完整提示词；原帖对比三个模型，本案例预览为对比帖首个附件，尚未核实它对应哪个模型，不能单独当作 Wan 结果。其余附件见来源详情。"
+      }
+    }
   },
   {
     "id": "tv-opening",
@@ -147,7 +192,22 @@
     "model_evidence": "Wan 3.0",
     "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
     "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
-    "practice_id": "02"
+    "practice_id": "02",
+    "homepage": {
+      "order": 4,
+      "en": {
+        "title": "TV opening comparison",
+        "heading": "TV opening comparison",
+        "lesson": "A comparison of narrative opening treatments.",
+        "description": "A comparison of narrative opening treatments. The post identifies Wan 3.0 and quotes a MiniMax H3 post. That quoted video is a different model. Only the main post attachments are listed; the exact shared prompt was not present."
+      },
+      "zh": {
+        "title": "电视片头对比",
+        "heading": "电视片头对比",
+        "lesson": "片头叙事处理",
+        "description": "观察开场如何介绍环境、角色和故事。这里只展示主帖附件；原帖引用的 MiniMax H3 视频属于另一模型。未取得完整提示词。"
+      }
+    }
   },
   {
     "id": "reference-assembly",
@@ -178,7 +238,22 @@
     "model_evidence": "WAN 3.0",
     "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
     "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
-    "practice_id": "05"
+    "practice_id": "05",
+    "homepage": {
+      "order": 5,
+      "en": {
+        "title": "Reference-led production demo",
+        "heading": "Reference-led production demo",
+        "lesson": "Separate roles for character, place and voice references.",
+        "description": "Separate roles for character, place and voice references. A provider early-test announcement, not a reproducible prompt/output pair. Its feature claims apply to that provider and date, not automatically to VideoWeb."
+      },
+      "zh": {
+        "title": "多参考制作演示",
+        "heading": "多参考制作演示",
+        "lesson": "人物、场景和声音参考",
+        "description": "观察人物、场景和声音参考分别承担什么作用。这是服务商发布的测试演示，未取得完整提示词；其中的功能介绍不代表 VideoWeb 当前提供相同功能。"
+      }
+    }
   },
   {
     "id": "story-comparison",
@@ -209,7 +284,22 @@
     "model_evidence": "Wan 3.0",
     "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
     "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
-    "practice_id": "04"
+    "practice_id": "04",
+    "homepage": {
+      "order": 6,
+      "en": {
+        "title": "Same-scene model comparison",
+        "heading": "Same-scene model comparison",
+        "lesson": "Compare whether story beats, camera and details remain readable.",
+        "description": "Compare whether story beats, camera and details remain readable. The post compares Wan 3.0, MiniMax H3 and Seedance 2.0. Its exact prompt and per-attachment model mapping were not published in the retrieved text. Do not label every clip Wan 3.0."
+      },
+      "zh": {
+        "title": "同场景模型对比",
+        "heading": "同场景模型对比",
+        "lesson": "同场景叙事差异",
+        "description": "比较故事动作、镜头和细节是否容易看懂。原帖涉及 Wan 3.0、MiniMax H3 和 Seedance 2.0，未公开完整提示词，也未明确附件与模型的对应关系；本案例图片是对比帖预览，不是已确认的 Wan 单独结果。"
+      }
+    }
   },
   {
     "id": "native-audio",
@@ -240,7 +330,22 @@
     "model_evidence": "WAN 3.0",
     "generation_settings_status": "Only publicly stated values and media metadata are recorded; seed and full platform settings are unknown.",
     "reference_assets_status": "Not supplied in this repository; obtain your own authorized inputs.",
-    "practice_id": "06"
+    "practice_id": "06",
+    "homepage": {
+      "order": 7,
+      "en": {
+        "title": "Native-audio early-access demo",
+        "heading": "Native-audio early-access demo",
+        "lesson": "Listen for action sounds and how they align with visible motion.",
+        "description": "Listen for action sounds and how they align with visible motion. Provider announcement with video; no exact prompt or independent reproduction. Earlier early-access timing does not establish current speed or availability."
+      },
+      "zh": {
+        "title": "原生音频演示",
+        "heading": "原生音频演示",
+        "lesson": "动作与声音同步",
+        "description": "播放时留意动作发生的时刻与声音是否同步。这是服务商的早期演示，未取得完整提示词，也未独立复现；发布时间和宣传内容不能证明当前生成速度或开放情况。"
+      }
+    }
   },
   {
     "id": "neon-stage",
@@ -276,7 +381,22 @@
       "sha256": "5a4aa973e5daced678b7764a49bc7e5214f09b05f7d0e9ecf9e9f773d0ea75bd",
       "verification": "Full post read on native X and cross-checked via reader API; text remains at author source."
     },
-    "practice_id": "04"
+    "practice_id": "04",
+    "homepage": {
+      "order": 8,
+      "en": {
+        "title": "Action choreography and aspect-ratio mismatch",
+        "heading": "Action choreography and aspect-ratio mismatch",
+        "lesson": "Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format.",
+        "description": "Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. The author publishes the full prompt and one video, identifies Wan 3.0 on BudgetPixel, and labels the post Paid partnership. The requested 15-second portrait setup is stated in the prompt. Character and action quality has not been reproduced on VideoWeb. The prompt asks for 9:16, but the attached video container is 1280 × 720 (16:9). Treat this as a visible specification mismatch, not a verified portrait result."
+      },
+      "zh": {
+        "title": "动作编排与画幅不符",
+        "heading": "动作编排与画幅不符",
+        "lesson": "提示词画幅与导出结果的差异",
+        "description": "观察主要动作是否清楚，并对照提示词与导出画幅。作者提供完整提示词，注明使用 BudgetPixel 上的 Wan 3.0，原帖标有付费合作。提示词要求 15 秒、9:16，视频附件却为 1280 × 720（16:9），不能当作成功的竖屏示例。"
+      }
+    }
   },
   {
     "id": "cable-car-story",
@@ -312,6 +432,21 @@
       "sha256": "3003005241c9ddf83cf5ec6fdaca610c7bdde53da9b48fc5abff5f14487327b1",
       "verification": "Full post read on native X and cross-checked via reader API; text remains at author source."
     },
-    "practice_id": "04"
+    "practice_id": "04",
+    "homepage": {
+      "order": 1,
+      "en": {
+        "title": "Five-shot mountain survival story",
+        "heading": "Five connected story beats",
+        "lesson": "Plan five timed story beats around one recognizable protagonist, then inspect continuity across cuts.",
+        "description": "Study a 30-second fictional mountain story planned as five 6-second shots: read each shot, then check character continuity and how the next action follows from the previous one. The author names Wan 3.0 on Lart; full settings and a seed are not available here."
+      },
+      "zh": {
+        "title": "五镜头山地故事",
+        "heading": "五个镜头连接一个故事",
+        "lesson": "五镜头叙事与人物连续",
+        "description": "作者将 30 秒虚构山地故事拆成五个 6 秒镜头。先读每段动作，再观察人物是否连贯、下一步是否承接上一步。这是故事创作案例，不是逃生指导。原帖注明使用 Lart 上的 Wan 3.0，未提供完整生成参数。"
+      }
+    }
   }
 ]

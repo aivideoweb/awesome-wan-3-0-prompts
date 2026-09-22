@@ -26,7 +26,10 @@ Buka [Wan 3.0 di VideoWeb AI](https://videoweb.ai/model/wan-3-0/), pilih teks at
 [Batasan] hal yang wajib dipertahankan + kegagalan paling mungkin
 ```
 
-## Prompt uji lengkap
+## Contoh perbandingan lengkap
+
+<!-- comparison-example-status: untested -->
+Contoh ini disediakan untuk membandingkan penulisan dalam berbagai bahasa. Contoh ini belum digunakan untuk membuat atau memverifikasi video di VideoWeb.
 
 ```text
 8 detik, 16:9, rekaman sinematik naturalistis. Saat fajar di jalan tua yang basah setelah hujan, seorang kurir muda dengan mantel hijau tua mengendarai sepeda vintage melewati genangan dangkal. Roda depan membelah air menjadi dua cipratan rendah; tetesan jatuh kembali ke batu dan tidak melayang. Kamera mengikuti dengan stabil dari kiri belakang setinggi lutut, dimulai dengan medium shot yang memperlihatkan lingkungan, mendekati tangan dan bel, lalu naik menuju cahaya hangat di ujung jalan. Suara: ban melewati air, pintu toko logam dari kejauhan, satu bunyi bel sepeda yang jernih. Pertahankan wajah, mantel, geometri sepeda, dan arah gerak. Tanpa teks, logo, anggota tubuh tambahan, jump cut, atau benda melayang.

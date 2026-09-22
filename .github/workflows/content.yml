@@ -13,6 +13,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/check_content.py
+      - run: python scripts/test_content.py
       - run: python scripts/build_catalog.py --check
       - run: python scripts/build_showcase.py --check
       - run: git diff --check

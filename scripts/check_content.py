@@ -3,8 +3,19 @@
 from pathlib import Path
 import json,re,sys
 from urllib.parse import unquote,urlsplit
+from html.parser import HTMLParser
+from homepage_showcase import updated_homepage
 from build_catalog import catalog,outputs,ROOT
 from build_showcase import render
+class HTMLReferences(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.links=[]
+    def handle_starttag(self, tag, attrs):
+        attrs=dict(attrs)
+        if tag=='img' and 'src' in attrs:self.links.append(attrs['src'])
+        if tag=='a' and 'href' in attrs:self.links.append(attrs['href'])
+
 errors=[]
 def require(ok,message):
     if not ok:errors.append(message)
@@ -20,22 +31,51 @@ for p in ROOT.rglob('*.md'):
     if '.git' in p.parts:continue
     s=p.read_text()
     require(s.count('```')%2==0,f'Unbalanced code fences: {p.relative_to(ROOT)}')
-    for link in re.findall(r'\]\(([^\s)]+)(?:\s+"[^"]*")?\)',s):
+    prose=re.sub(r'```.*?```','',s,flags=re.S)
+    html=HTMLReferences();html.feed(prose)
+    links=re.findall(r'\]\(([^\s)]+)(?:\s+"[^"]*")?\)',prose)+html.links
+    for link in links:
         if urlsplit(link).scheme:continue
         path=unquote(link.split('#')[0])
         if path:require((p.parent/path).exists(),f'Broken path in {p.relative_to(ROOT)}: {link}')
-        if '#prompt-' in link and path and (p.parent/path).is_file():
-            anchor=link.split('#',1)[1]
-            require(f'id="{anchor}"' in (p.parent/path).read_text(),f'Broken prompt anchor: {link}')
+        destination=p.parent/path if path else p
+        anchor=unquote(urlsplit(link).fragment)
+        if anchor.startswith(('prompt-','case-')) or anchor=='adapt-settings':
+            if destination.is_file():
+                require(f'id="{anchor}"' in destination.read_text(),f'Broken explicit anchor in {p.relative_to(ROOT)}: {link}')
     if p.name.startswith('README') and p.parent==ROOT:
         require('https://videoweb.ai/model/wan-3-0/' in s,f'Missing model link: {p.name}')
         require('https://videoweb.ai/affiliate-program/' in s,f'Missing affiliate link: {p.name}')
         require('https://flaq.ai/' not in s,f'Stale promotion: {p.name}')
         require('github.com/flaqai/' not in s,f'Stale contribution routing: {p.name}')
         require('10% OFF' not in s and '$0.045' not in s,f'Upstream pricing leaked into {p.name}')
+for page in ROOT.glob('README*.md'):
+    if page.name=='README.en.md':continue
+    text=page.read_text()
+    require(text.count('<!-- comparison-example-status: untested -->')==1,f'Missing comparison example status: {page.name}')
+    marker=text.find('<!-- comparison-example-status: untested -->')
+    note=text[marker+len('<!-- comparison-example-status: untested -->'):].split('```',1)[0]
+    require('VideoWeb' in note and len(note.strip())>30,f'Missing visible comparison status: {page.name}')
 for name,content in outputs().items():require((ROOT/'downloads'/name).read_text()==content,f'Stale download: {name}')
 cases=json.loads((ROOT/'data/x-cases.json').read_text());gallery=(ROOT/'guides/x-community-showcase.md').read_text()
 require(gallery==render(),'Stale gallery; run scripts/build_showcase.py')
+for name, language in [('README.md','en'),('README.zh-CN.md','zh')]:
+    page=(ROOT/name).read_text()
+    try:
+        require(page==updated_homepage(page,cases,language),f'Stale homepage: {name}; run scripts/build_showcase.py')
+    except (ValueError,KeyError) as exc:
+        require(False,f'Invalid homepage catalog: {exc}')
+for category in {x['category'] for x in core}:
+    page=(ROOT/'prompts'/f'{category}.md').read_text()
+    require('<!-- core-template-context -->' in page and '../UPSTREAM.md' in page and '../templates/generation-record.md' in page,f'Missing core context: {category}')
+    expected=sum(x['category']==category for x in core)
+    require(page.count('#adapt-settings)')==expected+1,f'Missing per-prompt adaptation links: {category}')
+    for block in re.split(r'(?=^## )',page,flags=re.M)[1:]:
+        prefix=block.split('```',1)[0]
+        require(prefix.count('#adapt-settings)')==1,f'Missing nearby settings link: {category} {block.splitlines()[0]}')
+    require('尚未逐条在 VideoWeb 生成验证' in page or 'have not each been generated and verified on VideoWeb' in page,f'Missing untested status: {category}')
+    intro=page.split('```',1)[0]
+    require(not re.search(r'(?:These original prompts|Original prompts for|Original production briefs)',intro),f'Ambiguous authorship: {category}')
 require(len(cases)>=9,'Expected at least nine sourced cases')
 require(len({c['source_url'] for c in cases})==len(cases),'Duplicate X source')
 for c in cases:
@@ -48,7 +88,6 @@ for c in cases:
         require(v['video_url'] in gallery,f'Gallery missing media: {c["id"]}')
         require(f']({v["thumbnail_url"]})]({v["watch_url"]})' in gallery,f'Thumbnail must open X: {c["id"]}')
         require(v['watch_url'].startswith(c['source_url']+'/video/'),f'Wrong video-to-post mapping: {c["id"]}')
-require(sum(c['prompt_status']=='complete_prompt_at_source' for c in cases)>=4,'Expected at least four complete author-prompt sources')
 require('1 new VideoWeb hero + 7 inherited category images' in (ROOT/'prompts/README.md').read_text(),'Artwork counts must separate new and inherited assets')
 for name in ['README.md','README.zh-CN.md','prompts/README.md']:
     text=(ROOT/name).read_text()

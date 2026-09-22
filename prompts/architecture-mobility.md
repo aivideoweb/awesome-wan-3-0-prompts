@@ -1,5 +1,9 @@
 # Architecture, Hospitality, and Mobility Prompts for Wan 3.0
 
+<!-- core-template-context -->
+
+These core briefs come from the [Flaq AI source collection](../UPSTREAM.md) and have not each been generated and verified on VideoWeb. Durations, aspect ratios and modes are creative targets, not a list of available controls. Before copying, read the [VideoWeb settings guide](../guides/videoweb-workflow.md#adapt-settings); save your settings and results with the [generation record](../templates/generation-record.md).
+
 These prompts prioritize honest scale, traversable routes, consistent geometry, and realistic vehicle contact. Avoid ultra-wide distortion when the video is meant to support a real property or service decision.
 
 <a id="prompt-01"></a>
@@ -7,6 +11,8 @@ These prompts prioritize honest scale, traversable routes, consistent geometry, 
 ## 01｜Honest micro-apartment walkthrough
 
 **Mode**: I2V / R2V　**Suggested**: 18 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 18 seconds, 16:9, truthful real-estate walkthrough of a fictional 32-square-meter studio. Geometry lock: entry door, kitchenette, fold-down table, sofa bed, one east-facing window, and bathroom door must keep exact positions and proportions.
@@ -24,6 +30,8 @@ Audio: room tone, hinge, distant street. Natural morning light and neutral grade
 
 **Mode**: T2V / Previs　**Suggested**: 15 seconds, 2.39:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 2.39:1, architectural previsualization of an original transit plaza at weekday morning peak. Fixed elements: tram stop, two shelters, four shade trees, raised crossing, protected cycle lane, and ground-floor café; preserve all counts and routes.
 
@@ -39,6 +47,8 @@ Audio: tram bell, rolling wheels, footsteps, restrained city ambience. No futuri
 ## 03｜Accessible library route validation
 
 **Mode**: R2V / Edit　**Suggested**: 20 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 20 seconds, 16:9, route-validation film inside a fictional public library. Follow an adult power-wheelchair user wearing a burgundy jacket from entrance to a low-height book pickup shelf. Keep identity, wheelchair geometry, route, doors, and furniture fixed.
@@ -57,6 +67,8 @@ Audio: door motor, quiet library, wheel motor, scan confirmation. No inspiration
 
 **Mode**: T2V / R2V　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, lifestyle architecture film showing how four adults share a compact co-living kitchen. Geometry lock: one island, two induction zones, sink, refrigerator, and four stools; keep people, wardrobe colors, props, and left-right relationships consistent.
 
@@ -72,6 +84,8 @@ Audio: knife, kettle, refrigerator, casual low conversation without exact dialog
 ## 05｜Cargo e-bike bakery delivery
 
 **Mode**: T2V / I2V　**Suggested**: 12 seconds, 9:16
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 12 seconds, 9:16, realistic urban mobility mini-documentary. Vehicle lock: forest-green long-tail electric bicycle, two tan insulated panniers, front light, no logo. Rider wears matte black helmet, cream rain shell, dark trousers; preserve vehicle, cargo count, clothing, and travel direction.
@@ -89,6 +103,8 @@ Audio: straps, freewheel, light rain, bell once, brake, scan. No dangerous sidew
 
 **Mode**: R2V / T2V　**Suggested**: 15 seconds, 2.39:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 2.39:1, industrial night-shift documentary inside a tram depot. Two adult technicians wear navy coveralls, reflective vests, gloves, and eye protection. Tram lock: silver body, blue stripe, four visible doors on this side; preserve staff, tools, body panels, and track position.
 
@@ -104,6 +120,8 @@ Audio: depot ventilation, metal tool contact, brief radio confirmation. No live-
 ## 07｜Autonomous river ferry docking test
 
 **Mode**: T2V / Previs　**Suggested**: 14 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 14 seconds, 16:9, realistic prototype test of a fictional small electric river ferry with supervised autonomous docking. Ferry lock: white catamaran, teal roof, two side bumpers, twelve empty seats, one onboard safety operator; preserve hull, passenger count, dock, and river direction.
@@ -121,6 +139,8 @@ Audio: water, electric motor hum, soft contact, confirmation tone. No claim of u
 
 **Mode**: I2V / R2V　**Suggested**: 18 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 18 seconds, 16:9, honest hospitality walkthrough of an original accessible hotel room. Guest uses a manual wheelchair and wears a dark green jacket. Geometry lock: inward entry, transfer space beside bed, low wardrobe rail, roll-in shower, fold-down seat, and reachable controls; preserve dimensions and fixture positions.
 
@@ -136,6 +156,8 @@ Audio: key lock, wheels, switch, shower-seat hinge. No luxury exaggeration, hidd
 ## 09｜Courtyard light study from dawn to evening
 
 **Mode**: Edit / Start-end frames　**Suggested**: 15 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 16:9, architectural light study of one original brick courtyard. Lock all geometry: L-shaped wall, three arched openings, shallow reflecting pool, one olive tree, two benches. Camera remains on the same tripod and lens for the full sequence.
@@ -153,6 +175,8 @@ Audio transitions from morning birds to midday footsteps to evening crickets; no
 
 **Mode**: Previs / T2V　**Suggested**: 18 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 18 seconds, 16:9, human-scale previsualization of a fictional primary-school afternoon pickup. Fixed layout: school gate, raised crossing, protected cycle lane, short bus bay, three family pickup spaces, and continuous sidewalk; preserve all routes and vehicle counts.
 
@@ -168,6 +192,8 @@ Audio: school bell, low conversation, bicycle freewheel, one crossing whistle. N
 ## 11｜Flat-pack emergency shelter assembly rehearsal
 
 **Mode**: R2V / Previs　**Suggested**: 20 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 20 seconds, 16:9, logistics rehearsal for an original temporary emergency shelter module, presented as a prototype rather than a certified solution. Module lock: gray floor cassette, four blue wall panels, two roof halves, eight numbered fasteners shown only as colored shapes; preserve component count and scale.

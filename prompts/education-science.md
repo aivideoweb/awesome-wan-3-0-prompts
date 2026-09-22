@@ -1,5 +1,9 @@
 # Education, Science, and Documentary Prompts for Wan 3.0
 
+<!-- core-template-context -->
+
+These core briefs come from the [Flaq AI source collection](../UPSTREAM.md) and have not each been generated and verified on VideoWeb. Durations, aspect ratios and modes are creative targets, not a list of available controls. Before copying, read the [VideoWeb settings guide](../guides/videoweb-workflow.md#adapt-settings); save your settings and results with the [generation record](../templates/generation-record.md).
+
 Educational video should make mechanisms visible without pretending that stylized graphics are literal footage. Keep labels short, verify facts independently, and add final typography in post when precision matters.
 
 <a id="prompt-01"></a>
@@ -7,6 +11,8 @@ Educational video should make mechanisms visible without pretending that stylize
 ## 01｜How street trees cool a summer block
 
 **Mode**: T2V / Edit　**Suggested**: 15 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 16:9, accessible science explainer comparing two adjacent fictional city blocks at noon: one with mature street trees, one without. Preserve the same sun position, road width, building materials, traffic level, and camera height.
@@ -24,6 +30,8 @@ Audio: cicadas, light traffic, leaves, calm narrator: “Shade reduces direct so
 
 **Mode**: T2V / R2V　**Suggested**: 12 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 12 seconds, 16:9, scientific visualization that clearly transitions from real macro footage to a labeled conceptual microscopic world. Subject: one fictional yellow lily with six stamens; keep flower geometry consistent.
 
@@ -39,6 +47,8 @@ Audio: soft lab foley and restrained narrator: “Pollen shape and surface vary 
 ## 03｜Four-step laser-cutter safety demonstration
 
 **Mode**: R2V / T2V　**Suggested**: 20 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 20 seconds, 16:9, clear workshop safety demonstration using a fictional enclosed desktop laser cutter. Adult operator wears tied-back hair, cotton shirt, safety glasses, and no loose jewelry. Machine geometry and workshop layout remain fixed.
@@ -57,6 +67,8 @@ Audio: ventilation, lid latch, low machine movement; narrator names each step. N
 
 **Mode**: T2V / Previs　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, classroom-scale lunar eclipse explanation using a lamp as the Sun, a blue globe as Earth, and a small gray Moon sphere on a rod. Teacher's hands and all object sizes remain consistent.
 
@@ -72,6 +84,8 @@ Audio: calm narration and quiet classroom. No wrong shadow direction, giant Moon
 ## 05｜Coral stress field-note comparison
 
 **Mode**: I2V / Edit　**Suggested**: 15 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 16:9, responsible marine field-note comparison. Use two documented views of the same fictional shallow reef patch, explicitly presented as different survey dates, not a rapid transformation. Preserve rock geometry, camera marker, coral colony shapes, and viewing angle.
@@ -89,6 +103,8 @@ Audio: underwater ambience and narrator: “Bleaching is a stress response; fiel
 
 **Mode**: T2V / I2V　**Suggested**: 10 seconds, 1:1
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 10 seconds, 1:1, classroom physics macro demonstration. A sealed clear acrylic tray contains iron filings above a fixed red-and-blue bar magnet; adult demonstrator wears nitrile gloves. Keep magnet orientation, tray, filing quantity, and camera axis consistent.
 
@@ -104,6 +120,8 @@ Audio: tray tap, fine granular movement, narrator: “The filings align with the
 ## 07｜Gravity-fed water filter cross-section
 
 **Mode**: T2V / Previs　**Suggested**: 14 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 14 seconds, 16:9, educational cutaway of a fictional gravity-fed teaching filter, not a claim that the output is automatically safe to drink. Device lock: clear upper reservoir, gravel layer, sand layer, activated-carbon layer, lower collection vessel; preserve order and volume.
@@ -121,6 +139,8 @@ Audio: pouring, dripping, concise narration: “Filtration can remove some parti
 
 **Mode**: R2V / T2V　**Suggested**: 15 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 15 seconds, 16:9, careful museum documentation workflow for a fictional ceramic fragment. Artifact lock: one rust-red curved shard with three incised parallel lines and a chipped lower corner; preserve every edge and mark.
 
@@ -136,6 +156,8 @@ Audio: quiet archive room, foam contact, camera shutter. No restoration invented
 ## 09｜Inclusive science demonstration with sign language
 
 **Mode**: R2V / Audio-driven　**Suggested**: 18 seconds, 16:9
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 18 seconds, 16:9, accessible science explainer about condensation. Presenter lock: Deaf adult educator with shoulder-length dark hair, cobalt-blue shirt, neutral backdrop; sign-language interpreter reference defines signing motion only, not identity. Keep hands fully inside frame from waist to head.
@@ -153,6 +175,8 @@ Audio can contain only room tone and optional soft foley; accessibility does not
 
 **Mode**: T2V / R2V　**Suggested**: 18 seconds, 16:9
 
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
+
 ```text
 18 seconds, 16:9, food-service training demonstration in a fictional café kitchen. Show process discipline without making a universal safety guarantee. Worker lock: black cap, white shirt, blue apron, clean gloves. Workstation lock: red allergen board, white standard board, two knives, separate covered ingredient bins.
 
@@ -168,6 +192,8 @@ Audio: sink, glove, container latches, exact confirmation. No claim of zero risk
 ## 11｜Night-sky light-pollution comparison
 
 **Mode**: Edit / T2V　**Suggested**: 15 seconds, 2.39:1
+
+[Before copying: adapt these target settings](../guides/videoweb-workflow.md#adapt-settings)
 
 ```text
 15 seconds, 2.39:1, educational night-sky comparison using the same fictional town viewpoint, date, weather, Moon position, lens, exposure, and camera tripod. The difference is only outdoor-lighting design.
