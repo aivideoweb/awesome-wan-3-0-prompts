@@ -2,7 +2,7 @@
 
 Edisi ini mengadaptasi koleksi Flaq AI berlisensi MIT. 120 teks menggunakan bahasa Mandarin sederhana dan bahasa Inggris dan belum semuanya diuji di VideoWeb. Halaman ini menyediakan pengantar dan contoh berbahasa Indonesia. [Sumber dan gambar](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [Semua 15 bahasa](locales/README.md)
 

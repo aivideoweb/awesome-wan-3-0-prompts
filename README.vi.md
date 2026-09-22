@@ -2,7 +2,7 @@
 
 Phiên bản này điều chỉnh bộ sưu tập Flaq AI theo giấy phép MIT. 120 câu lệnh bằng tiếng Trung giản thể và tiếng Anh và chưa được kiểm thử toàn bộ trên VideoWeb. Trang này cung cấp phần giới thiệu và ví dụ bằng tiếng Việt. [Nguồn và hình ảnh](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [Đủ 15 ngôn ngữ](locales/README.md)
 

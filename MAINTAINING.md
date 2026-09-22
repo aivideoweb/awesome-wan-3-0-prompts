@@ -11,7 +11,7 @@ python3 scripts/build_showcase.py --check
 git diff --check
 ```
 
-`prompts/` contains the 120 upstream briefs plus six clearly labeled practice briefs. Build downloads from those category files; do not hand-edit downloads. `data/x-cases.json` records external sources, author, prompt availability, media links and known limits. Set each case’s `practice_id` to an existing exercise anchor and update the visible case counts in the English and Chinese READMEs when adding a case. Generate `guides/x-community-showcase.md` with `scripts/build_showcase.py`; do not hand-edit it.
+`prompts/` contains the 120 upstream briefs plus six clearly labeled practice briefs. Build downloads from those category files; do not hand-edit downloads. `data/x-cases.json` records external sources, author, prompt availability, media links and known limits. Set each case’s `practice_id` to an existing exercise anchor and update the visible case counts, local overview links and full-width preview cards in the English and Chinese READMEs when adding a case. Keep each card’s image, watch link, author and prompt status aligned with the catalog; identify comparison attachments whose model is unknown. Generate `guides/x-community-showcase.md` with `scripts/build_showcase.py`; do not hand-edit it.
 
 ## Add an X case
 

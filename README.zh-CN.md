@@ -6,7 +6,7 @@
 
 **[按用途找提示词](#start-here) · [3 个完整图例](#featured-prompts) · [复制入门示例](#quick-start) · [9 个视频案例](#community-videos) · [查看全部分类](#categories)**
 
-![VideoWeb AI — Wan 3.0 视频提示词库](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 视频提示词库](assets/videoweb-wan-3-hero.webp)
 
 *这是 VideoWeb 维护的社区提示词库。封面为编辑示意图，不是 Wan 3.0 生成结果。*
 
@@ -129,15 +129,35 @@
 
 ## 从视频案例学习
 
-**9 个 X 案例，其中 4 个可在作者原帖查看完整提示词。** 先看下面两条。点击缩略图或播放链接进入 X，可能需要登录。这些是第三方作品，并非本仓库在 VideoWeb 上复现的结果。
+**9 个 X 案例，其中 4 个可在作者原帖查看完整提示词。** 下面直接展示全部 9 个案例的预览图。点击图片或播放链接进入 X，可能需要登录。这些是第三方作品，并非本仓库在 VideoWeb 上复现的结果。
+
+### 全部 9 个案例一览
+
+| 案例 | 学习重点 | 提示词情况 |
+|---|---|---|
+| [虚空追逐](#case-void-escape) | 单一角色和追逐方向 | 作者原文完整 |
+| [五镜头山地故事](#case-cable-car-story) | 五镜头叙事与人物连续 | 作者原文完整 |
+| [雨中擂台对打](#case-arena-boxing) | 双人动作与空间关系 | 提示词外链未核验 |
+| [七镜头动画对比](#case-seven-shot-fight) | 多镜头与方向连续 | 作者原文完整 |
+| [电视片头对比](#case-tv-opening) | 片头叙事处理 | 仅演示，未取得提示词 |
+| [多参考制作演示](#case-reference-assembly) | 人物、场景和声音参考 | 仅演示，未取得提示词 |
+| [同场景模型对比](#case-story-comparison) | 同场景叙事差异 | 仅演示，未取得提示词 |
+| [原生音频演示](#case-native-audio) | 动作与声音同步 | 仅演示，未取得提示词 |
+| [动作编排与画幅不符](#case-neon-stage) | 提示词画幅与导出结果的差异 | 作者原文完整 |
+
+部分原帖对比多个模型，不能将其中所有附件都当成 Wan 的结果。“原文完整”也不代表参考素材和参数齐全；具体缺项见对应案例。
+
+<a id="case-void-escape"></a>
 
 ### 单一角色与追逐方向 — [@0xbisc](https://x.com/0xbisc)
 
 <a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You，点击观看 X 原帖视频" width="100%"></a>
 
-对照提示词观察：30 秒里如何保持角色一致，让威胁始终位于逃跑方向后方。**复现前注意：**作者提示词需要 Image1 参考图，仓库未提供；原帖标有付费合作。
+对照提示词观察：30 秒里如何保持角色一致，让威胁始终位于逃跑方向后方。 **复现前注意：** 作者提示词需要 Image1 参考图，仓库未提供；原帖标有付费合作。
 
 [▶ 观看视频](https://x.com/0xbisc/status/2093296541834653883/video/1) · [作者完整提示词](https://x.com/0xbisc/status/2093296546926539136) · [另一条追逐练习](prompts/community-practice.md#prompt-03) · [来源与限制](guides/x-community-showcase.md#void-escape)
+
+<a id="case-cable-car-story"></a>
 
 ### 五个镜头连接一个故事 — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
@@ -147,23 +167,77 @@
 
 [▶ 观看视频](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [作者完整提示词](https://x.com/chatgptpaglu/status/2094710054675157354) · [来源与限制](guides/x-community-showcase.md#cable-car-story)
 
+<a id="case-arena-boxing"></a>
+
+### 雨中擂台对打 — [@OpreliaAI](https://x.com/OpreliaAI)
+
+<a href="https://x.com/OpreliaAI/status/2084771795056333038/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084715180269654016/img/asHNjLcS9QnUssHz.jpg" alt="雨中擂台对打" width="100%"></a>
+
+观察两个人的位置、出拳方向，以及动作是否保持清楚。作者称这是 17 秒测试；提示词回复指向 Telegram，外链内容尚未核验。
+
+**提示词外链未核验** · [▶ 观看原帖视频](https://x.com/OpreliaAI/status/2084771795056333038/video/1) · [来源、全部附件与限制](guides/x-community-showcase.md#arena-boxing)
+
+<a id="case-seven-shot-fight"></a>
+
+### 七镜头动画对比 — [@Dani__oros](https://x.com/Dani__oros)
+
+<a href="https://x.com/Dani__oros/status/2084474998459396477/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084474303987474432/img/2GZ8LBxzIzHzoroJ.jpg" alt="七镜头动画对比" width="100%"></a>
+
+观察七个镜头中的运动方向、角色配色和环境破坏是否连续。作者回复提供完整提示词；原帖对比三个模型，本案例预览为对比帖首个附件，尚未核实它对应哪个模型，不能单独当作 Wan 结果。其余附件见来源详情。
+
+**作者原文完整** · [▶ 观看原帖视频](https://x.com/Dani__oros/status/2084474998459396477/video/1) · [作者完整提示词](https://x.com/Dani__oros/status/2084475003223896189) · [来源、全部附件与限制](guides/x-community-showcase.md#seven-shot-fight)
+
+<a id="case-tv-opening"></a>
+
+### 电视片头对比 — [@wavespeed_ai](https://x.com/wavespeed_ai)
+
+<a href="https://x.com/wavespeed_ai/status/2084965430687588477/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084964593970118656/img/Cs_-4_9Ipy0tYbig.jpg" alt="电视片头对比" width="100%"></a>
+
+观察开场如何介绍环境、角色和故事。这里只展示主帖附件；原帖引用的 MiniMax H3 视频属于另一模型。未取得完整提示词。
+
+**仅演示，未取得提示词** · [▶ 观看原帖视频](https://x.com/wavespeed_ai/status/2084965430687588477/video/1) · [来源、全部附件与限制](guides/x-community-showcase.md#tv-opening)
+
+<a id="case-reference-assembly"></a>
+
+### 多参考制作演示 — [@PixelDojoAI](https://x.com/PixelDojoAI)
+
+<a href="https://x.com/PixelDojoAI/status/2083212955072807175/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083212925255446528/img/XZ674J3NnC6mpSLI.jpg" alt="多参考制作演示" width="100%"></a>
+
+观察人物、场景和声音参考分别承担什么作用。这是服务商发布的测试演示，未取得完整提示词；其中的功能介绍不代表 VideoWeb 当前提供相同功能。
+
+**仅演示，未取得提示词** · [▶ 观看原帖视频](https://x.com/PixelDojoAI/status/2083212955072807175/video/1) · [来源、全部附件与限制](guides/x-community-showcase.md#reference-assembly)
+
+<a id="case-story-comparison"></a>
+
+### 同场景模型对比 — [@wavespeed_ai](https://x.com/wavespeed_ai)
+
+<a href="https://x.com/wavespeed_ai/status/2085025284378538045/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2085020209925210112/img/TUR8ROJJ4D0fV7V_.jpg" alt="同场景模型对比" width="100%"></a>
+
+比较故事动作、镜头和细节是否容易看懂。原帖涉及 Wan 3.0、MiniMax H3 和 Seedance 2.0，未公开完整提示词，也未明确附件与模型的对应关系；本案例图片是对比帖预览，不是已确认的 Wan 单独结果。
+
+**仅演示，未取得提示词** · [▶ 观看原帖视频](https://x.com/wavespeed_ai/status/2085025284378538045/video/1) · [来源、全部附件与限制](guides/x-community-showcase.md#story-comparison)
+
+<a id="case-native-audio"></a>
+
+### 原生音频演示 — [@enhance_ai](https://x.com/enhance_ai)
+
+<a href="https://x.com/enhance_ai/status/2085089954099757225/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2085089914044207104/img/6fdS2Hv6vcDWrnOm.jpg" alt="原生音频演示" width="100%"></a>
+
+播放时留意动作发生的时刻与声音是否同步。这是服务商的早期演示，未取得完整提示词，也未独立复现；发布时间和宣传内容不能证明当前生成速度或开放情况。
+
+**仅演示，未取得提示词** · [▶ 观看原帖视频](https://x.com/enhance_ai/status/2085089954099757225/video/1) · [来源、全部附件与限制](guides/x-community-showcase.md#native-audio)
+
+<a id="case-neon-stage"></a>
+
+### 动作编排与画幅不符 — [@iam_mian7](https://x.com/iam_mian7)
+
+<a href="https://x.com/iam_mian7/status/2097613778796126569/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2097613673368059905/img/R_8c6sGJoOboG8cV.jpg" alt="动作编排与画幅不符" width="100%"></a>
+
+观察主要动作是否清楚，并对照提示词与导出画幅。作者提供完整提示词，注明使用 BudgetPixel 上的 Wan 3.0，原帖标有付费合作。提示词要求 15 秒、9:16，视频附件却为 1280 × 720（16:9），不能当作成功的竖屏示例。
+
+**作者原文完整** · [▶ 观看原帖视频](https://x.com/iam_mian7/status/2097613778796126569/video/1) · [作者完整提示词](https://x.com/iam_mian7/status/2097613778796126569) · [来源、全部附件与限制](guides/x-community-showcase.md#neon-stage)
+
 [查看全部 9 个案例及提示词完整情况](guides/x-community-showcase.md)。[6 条补充练习](prompts/community-practice.md)是独立编写、尚未实测的练习，不是这些视频的原始提示词。
-
-### 全部 9 个案例一览
-
-| 案例 | 学习重点 | 提示词情况 |
-|---|---|---|
-| [虚空追逐](guides/x-community-showcase.md#void-escape) | 单一角色和追逐方向 | 作者原文完整 |
-| [雨中擂台对打](guides/x-community-showcase.md#arena-boxing) | 双人动作与空间关系 | 提示词外链未核验 |
-| [七镜头动画对比](guides/x-community-showcase.md#seven-shot-fight) | 多镜头与方向连续 | 作者原文完整 |
-| [电视片头对比](guides/x-community-showcase.md#tv-opening) | 片头叙事处理 | 仅演示，未取得提示词 |
-| [多参考制作演示](guides/x-community-showcase.md#reference-assembly) | 人物、场景和声音参考 | 仅演示，未取得提示词 |
-| [同场景模型对比](guides/x-community-showcase.md#story-comparison) | 同场景叙事差异 | 仅演示，未取得提示词 |
-| [原生音频演示](guides/x-community-showcase.md#native-audio) | 动作与声音同步 | 仅演示，未取得提示词 |
-| [动作编排与画幅不符](guides/x-community-showcase.md#neon-stage) | 提示词画幅与导出结果的差异 | 作者原文完整 |
-| [五镜头山地故事](guides/x-community-showcase.md#cable-car-story) | 五镜头叙事与人物连续 | 作者原文完整 |
-
-部分原帖对比多个模型，不能将其中所有附件都当成 Wan 的结果。“原文完整”也不代表参考素材和参数齐全；具体缺项见对应案例。
 
 ## 四个实用专题
 
@@ -216,7 +290,7 @@
 不要文字、商标、多余手指、跳切或物体融化。
 ```
 
-这是尚未实测的入门练习，不是社区视频的原始提示词。如果已有商品照片，点击 **Choose Start Frame（选择首帧）**上传图片，再描述需要的动作。详细步骤见[操作指南](guides/videoweb-workflow.zh-CN.md)。
+这是尚未实测的入门练习，不是社区视频的原始提示词。如果已有商品照片，点击 **Choose Start Frame（选择首帧）** 上传图片，再描述需要的动作。详细步骤见[操作指南](guides/videoweb-workflow.zh-CN.md)。
 
 **复制后先核对参数。** 2026-09-22 检查到的表单提供 5、10、15、20、25、30 秒。原模板写 8 秒或 12 秒时，需选可用时长并同步调整各段动作；没有 2.39:1 时，可选现有画幅、给主体留出边缘空间，再后期裁切。提示词不能代替界面设置。声音、尾帧、多参考和视频编辑均需当前模式提供对应功能。
 

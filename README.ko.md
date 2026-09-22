@@ -2,7 +2,7 @@
 
 MIT 라이선스의 Flaq AI 모음을 바탕으로 만든 VideoWeb 버전입니다. 120개 본문은 중국어 간체와 영어이며 VideoWeb에서 모두 검증한 것은 아닙니다. 이 페이지는 한국어 안내와 예시를 제공합니다. [출처와 이미지 정보](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [모든 15개 언어](locales/README.md)
 

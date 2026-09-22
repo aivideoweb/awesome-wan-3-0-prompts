@@ -2,7 +2,7 @@
 
 Cette édition adapte la collection de Flaq AI sous licence MIT. Les 120 textes sont en chinois simplifié et en anglais et n’ont pas tous été testés sur VideoWeb ; cette page propose une introduction et un exemple en français. [Sources et images](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [Les 15 langues](locales/README.md)
 

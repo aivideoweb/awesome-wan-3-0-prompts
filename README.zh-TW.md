@@ -2,7 +2,7 @@
 
 本版本改編自 MIT 授權的 Flaq AI 提示詞庫。120 條基礎提示詞使用簡體中文與英文，尚未逐條在 VideoWeb 驗證；本頁提供繁體中文導讀與範例。[內容與圖片來源](UPSTREAM.md)。
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [所有 15 種語言](locales/README.md)
 

@@ -2,6 +2,8 @@
 
 `videoweb-wan-3-hero.png` was generated for VideoWeb AI on 2026-09-22 with the built-in image generation tool. It is an illustrative cover, not Wan 3.0 video output. Prompt: a wide cinematic editorial contact sheet with a turquoise skincare bottle, a traveler above a seaside city, and an original animated woodland fox; title “VideoWeb AI”, subtitle “WAN 3.0 PROMPT LIBRARY”, footer “120 prompts · From idea to motion”.
 
+The homepage uses `videoweb-wan-3-hero.webp`, a compressed copy at the original 1672 × 941 dimensions (226,212 bytes). The PNG is retained as the editing original.
+
 The seven category covers below are retained from the MIT-licensed upstream collection. Their original generation prompts are preserved below. They are illustrative scene previews, not generated-video evidence. See [provenance](../UPSTREAM.md).
 
 ## `covers/product-commercial.webp`

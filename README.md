@@ -8,7 +8,7 @@
 
 **[Find a prompt](#start-here) · [3 illustrated prompts](#featured-prompts) · [Copy a starter](#quick-start) · [9 video cases](#community-videos) · [All 14 categories](#categories)**
 
-![VideoWeb AI — Wan 3.0 prompt library](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library](assets/videoweb-wan-3-hero.webp)
 
 *VideoWeb edition of a community prompt library. This cover is an editorial illustration, not a Wan 3.0 output.*
 
@@ -146,7 +146,25 @@ cuts.
 
 ## Learn from community videos
 
-**9 sourced X cases, including 4 with complete author prompts.** These two are useful starting points. Click a preview or the watch link to open the video on X; login may be required. These are third-party results, not VideoWeb reproductions.
+**9 sourced X cases, including 4 with complete author prompts.** All 9 cases have expanded previews below. Click a preview or the watch link to open the video on X; login may be required. These are third-party results, not VideoWeb reproductions.
+
+### All 9 cases at a glance
+
+| Case | What to study | Prompt availability |
+|---|---|---|
+| [Before the Void Swallows You](#case-void-escape) | One-character continuity and a threat kept behind the direction of travel. | Complete at author source |
+| [Five-shot mountain survival story](#case-cable-car-story) | Plan five timed story beats around one recognizable protagonist, then inspect continuity across cuts. | Complete at author source |
+| [Rainy arena fight](#case-arena-boxing) | Readable action with two distinct bodies and one stable setting. | External prompt not verified |
+| [Seven-shot animation comparison](#case-seven-shot-fight) | Explicit shot count, screen direction, color assignment and accumulating environmental damage. | Complete at author source |
+| [TV opening comparison](#case-tv-opening) | A comparison of narrative opening treatments. | Demo; prompt not retrieved |
+| [Reference-led production demo](#case-reference-assembly) | Separate roles for character, place and voice references. | Demo; prompt not retrieved |
+| [Same-scene model comparison](#case-story-comparison) | Compare whether story beats, camera and details remain readable. | Demo; prompt not retrieved |
+| [Native-audio early-access demo](#case-native-audio) | Listen for action sounds and how they align with visible motion. | Demo; prompt not retrieved |
+| [Action choreography and aspect-ratio mismatch](#case-neon-stage) | Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. | Complete at author source |
+
+Some posts compare several models; their attachments are not all confirmed Wan outputs. Complete prompt text does not mean all reference inputs or settings are available. Each case page records what is missing.
+
+<a id="case-void-escape"></a>
 
 ### One character, one direction — [@0xbisc](https://x.com/0xbisc)
 
@@ -156,6 +174,8 @@ Study how the prompt keeps the threat behind the running character and carries t
 
 [▶ Watch video](https://x.com/0xbisc/status/2093296541834653883/video/1) · [Read the complete author prompt](https://x.com/0xbisc/status/2093296546926539136) · [Try a separate chase exercise](prompts/community-practice.md#prompt-03) · [Source notes](guides/x-community-showcase.md#void-escape)
 
+<a id="case-cable-car-story"></a>
+
 ### Five connected story beats — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
 <a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain story — watch the original X video" width="100%"></a>
@@ -164,23 +184,77 @@ Study a 30-second fictional mountain story planned as five 6-second shots: read 
 
 [▶ Watch video](https://x.com/chatgptpaglu/status/2094710054675157354/video/1) · [Read the complete author prompt](https://x.com/chatgptpaglu/status/2094710054675157354) · [Source notes](guides/x-community-showcase.md#cable-car-story)
 
+<a id="case-arena-boxing"></a>
+
+### Rainy arena fight — [@OpreliaAI](https://x.com/OpreliaAI)
+
+<a href="https://x.com/OpreliaAI/status/2084771795056333038/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084715180269654016/img/asHNjLcS9QnUssHz.jpg" alt="Rainy arena fight" width="100%"></a>
+
+Readable action with two distinct bodies and one stable setting. The author labels this a Wan 3.0 17-second test. The prompt reply links to Telegram; that external prompt was not verified. No source prompt is reproduced.
+
+**External prompt not verified** · [▶ Watch original video](https://x.com/OpreliaAI/status/2084771795056333038/video/1) · [Source, all attachments and limitations](guides/x-community-showcase.md#arena-boxing)
+
+<a id="case-seven-shot-fight"></a>
+
+### Seven-shot animation comparison — [@Dani__oros](https://x.com/Dani__oros)
+
+<a href="https://x.com/Dani__oros/status/2084474998459396477/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084474303987474432/img/2GZ8LBxzIzHzoroJ.jpg" alt="Seven-shot animation comparison" width="100%"></a>
+
+Explicit shot count, screen direction, color assignment and accumulating environmental damage. The linked reply contains the full 15-second, seven-shot brief. The parent compares THREE models. This preview shows the first comparison attachment; its model has not been verified. Do not treat it as a confirmed Wan result. All three attachments are available in the source notes.
+
+**Complete prompt at author source** · [▶ Watch original video](https://x.com/Dani__oros/status/2084474998459396477/video/1) · [Complete author prompt](https://x.com/Dani__oros/status/2084475003223896189) · [Source, all attachments and limitations](guides/x-community-showcase.md#seven-shot-fight)
+
+<a id="case-tv-opening"></a>
+
+### TV opening comparison — [@wavespeed_ai](https://x.com/wavespeed_ai)
+
+<a href="https://x.com/wavespeed_ai/status/2084965430687588477/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2084964593970118656/img/Cs_-4_9Ipy0tYbig.jpg" alt="TV opening comparison" width="100%"></a>
+
+A comparison of narrative opening treatments. The post identifies Wan 3.0 and quotes a MiniMax H3 post. That quoted video is a different model. Only the main post attachments are listed; the exact shared prompt was not present.
+
+**Demo; prompt not retrieved** · [▶ Watch original video](https://x.com/wavespeed_ai/status/2084965430687588477/video/1) · [Source, all attachments and limitations](guides/x-community-showcase.md#tv-opening)
+
+<a id="case-reference-assembly"></a>
+
+### Reference-led production demo — [@PixelDojoAI](https://x.com/PixelDojoAI)
+
+<a href="https://x.com/PixelDojoAI/status/2083212955072807175/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083212925255446528/img/XZ674J3NnC6mpSLI.jpg" alt="Reference-led production demo" width="100%"></a>
+
+Separate roles for character, place and voice references. A provider early-test announcement, not a reproducible prompt/output pair. Its feature claims apply to that provider and date, not automatically to VideoWeb.
+
+**Demo; prompt not retrieved** · [▶ Watch original video](https://x.com/PixelDojoAI/status/2083212955072807175/video/1) · [Source, all attachments and limitations](guides/x-community-showcase.md#reference-assembly)
+
+<a id="case-story-comparison"></a>
+
+### Same-scene model comparison — [@wavespeed_ai](https://x.com/wavespeed_ai)
+
+<a href="https://x.com/wavespeed_ai/status/2085025284378538045/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2085020209925210112/img/TUR8ROJJ4D0fV7V_.jpg" alt="Same-scene model comparison" width="100%"></a>
+
+Compare whether story beats, camera and details remain readable. The post compares Wan 3.0, MiniMax H3 and Seedance 2.0. Its exact prompt and per-attachment model mapping were not published in the retrieved text. Do not label every clip Wan 3.0.
+
+**Demo; prompt not retrieved** · [▶ Watch original video](https://x.com/wavespeed_ai/status/2085025284378538045/video/1) · [Source, all attachments and limitations](guides/x-community-showcase.md#story-comparison)
+
+<a id="case-native-audio"></a>
+
+### Native-audio early-access demo — [@enhance_ai](https://x.com/enhance_ai)
+
+<a href="https://x.com/enhance_ai/status/2085089954099757225/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2085089914044207104/img/6fdS2Hv6vcDWrnOm.jpg" alt="Native-audio early-access demo" width="100%"></a>
+
+Listen for action sounds and how they align with visible motion. Provider announcement with video; no exact prompt or independent reproduction. Earlier early-access timing does not establish current speed or availability.
+
+**Demo; prompt not retrieved** · [▶ Watch original video](https://x.com/enhance_ai/status/2085089954099757225/video/1) · [Source, all attachments and limitations](guides/x-community-showcase.md#native-audio)
+
+<a id="case-neon-stage"></a>
+
+### Action choreography and aspect-ratio mismatch — [@iam_mian7](https://x.com/iam_mian7)
+
+<a href="https://x.com/iam_mian7/status/2097613778796126569/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2097613673368059905/img/R_8c6sGJoOboG8cV.jpg" alt="Action choreography and aspect-ratio mismatch" width="100%"></a>
+
+Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. The author publishes the full prompt and one video, identifies Wan 3.0 on BudgetPixel, and labels the post Paid partnership. The requested 15-second portrait setup is stated in the prompt. Character and action quality has not been reproduced on VideoWeb. The prompt asks for 9:16, but the attached video container is 1280 × 720 (16:9). Treat this as a visible specification mismatch, not a verified portrait result.
+
+**Complete prompt at author source** · [▶ Watch original video](https://x.com/iam_mian7/status/2097613778796126569/video/1) · [Complete author prompt](https://x.com/iam_mian7/status/2097613778796126569) · [Source, all attachments and limitations](guides/x-community-showcase.md#neon-stage)
+
 [Browse all 9 cases and their prompt availability](guides/x-community-showcase.md). The [6 practice briefs](prompts/community-practice.md) are separate, untested exercises, not the source prompts for these videos.
-
-### All 9 cases at a glance
-
-| Case | What to study | Prompt availability |
-|---|---|---|
-| [Before the Void Swallows You](guides/x-community-showcase.md#void-escape) | One-character continuity and a threat kept behind the direction of travel. | Complete at author source |
-| [Rainy arena fight](guides/x-community-showcase.md#arena-boxing) | Readable action with two distinct bodies and one stable setting. | External prompt not verified |
-| [Seven-shot animation comparison](guides/x-community-showcase.md#seven-shot-fight) | Explicit shot count, screen direction, color assignment and accumulating environmental damage. | Complete at author source |
-| [TV opening comparison](guides/x-community-showcase.md#tv-opening) | A comparison of narrative opening treatments. | Demo; prompt not retrieved |
-| [Reference-led production demo](guides/x-community-showcase.md#reference-assembly) | Separate roles for character, place and voice references. | Demo; prompt not retrieved |
-| [Same-scene model comparison](guides/x-community-showcase.md#story-comparison) | Compare whether story beats, camera and details remain readable. | Demo; prompt not retrieved |
-| [Native-audio early-access demo](guides/x-community-showcase.md#native-audio) | Listen for action sounds and how they align with visible motion. | Demo; prompt not retrieved |
-| [Action choreography and aspect-ratio mismatch](guides/x-community-showcase.md#neon-stage) | Keep one primary exchange readable, and compare the requested aspect ratio with the actual exported video instead of assuming the prompt controlled the format. | Complete at author source |
-| [Five-shot mountain survival story](guides/x-community-showcase.md#cable-car-story) | Plan five timed story beats around one recognizable protagonist, then inspect continuity across cuts. | Complete at author source |
-
-Some posts compare several models; their attachments are not all confirmed Wan outputs. Complete prompt text does not mean all reference inputs or settings are available. Each case page records what is missing.
 
 ## Explore four production themes
 

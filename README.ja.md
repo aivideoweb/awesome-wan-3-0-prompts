@@ -11,7 +11,7 @@ MIT ライセンスの Flaq AI コレクションをもとにした VideoWeb 版
 
 [テスト済みプロンプトをフォームから投稿](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml)したり、[コントリビューションガイド](CONTRIBUTING.md)に沿って翻訳や新カテゴリを提案したりできます。
 
-![Wan 3.0 AI 動画プロンプト集](assets/videoweb-wan-3-hero.png)
+![Wan 3.0 AI 動画プロンプト集](assets/videoweb-wan-3-hero.webp)
 
 ## VideoWeb AI で動画を作る
 

@@ -2,7 +2,7 @@
 
 ฉบับนี้ดัดแปลงจากคลัง Flaq AI ภายใต้สัญญาอนุญาต MIT พรอมต์ทั้ง 120 รายการเป็นภาษาจีนตัวย่อและภาษาอังกฤษ และยังไม่ได้ทดสอบทุกรายการบน VideoWeb หน้านี้มีคำแนะนำและตัวอย่างภาษาไทย [แหล่งที่มาและภาพ](UPSTREAM.md)
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [ภาษาทั้งหมด 15 ภาษา](locales/README.md)
 

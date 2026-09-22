@@ -2,7 +2,7 @@
 
 هذه النسخة مقتبسة من مجموعة Flaq AI المرخصة بترخيص MIT. النصوص الـ120 مكتوبة بالصينية المبسطة والإنجليزية ولم تُختبر جميعها على VideoWeb. تقدم هذه الصفحة مقدمة ومثالًا بالعربية. [المصادر والصور](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [جميع اللغات الـ15](locales/README.md)
 

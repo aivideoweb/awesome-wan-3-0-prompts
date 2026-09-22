@@ -11,7 +11,7 @@ Esta edición adapta la colección de Flaq AI con licencia MIT. Los 120 textos e
 
 Puedes [enviar un prompt probado mediante el formulario](https://github.com/aivideoweb/awesome-wan-3-0-prompts/issues/new?template=prompt.yml) o consultar la [guía de contribución](CONTRIBUTING.md) para aportar traducciones y nuevas categorías.
 
-![Colección de prompts Wan 3.0 para vídeo con IA](assets/videoweb-wan-3-hero.png)
+![Colección de prompts Wan 3.0 para vídeo con IA](assets/videoweb-wan-3-hero.webp)
 
 ## Crear con VideoWeb AI
 

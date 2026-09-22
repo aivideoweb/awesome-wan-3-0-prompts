@@ -2,7 +2,7 @@
 
 Эта версия основана на коллекции Flaq AI под лицензией MIT. 120 текстов написаны на упрощённом китайском и английском и не все проверены на VideoWeb. Здесь представлены введение и пример на русском. [Источники и изображения](UPSTREAM.md).
 
-![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.png)
+![VideoWeb AI — Wan 3.0 prompt library; illustrative cover](assets/videoweb-wan-3-hero.webp)
 
 [English](README.md) · [Все 15 языков](locales/README.md)
 
