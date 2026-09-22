@@ -133,7 +133,7 @@
 
 ### 单一角色与追逐方向 — [@0xbisc](https://x.com/0xbisc)
 
-<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You，点击观看 X 原帖视频" width="440"></a>
+<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You，点击观看 X 原帖视频" width="100%"></a>
 
 对照提示词观察：30 秒里如何保持角色一致，让威胁始终位于逃跑方向后方。**复现前注意：**作者提示词需要 Image1 参考图，仓库未提供；原帖标有付费合作。
 
@@ -141,7 +141,7 @@
 
 ### 五个镜头连接一个故事 — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
-<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="五镜头山地故事，点击观看 X 原帖视频" width="440"></a>
+<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="五镜头山地故事，点击观看 X 原帖视频" width="100%"></a>
 
 作者将 30 秒虚构山地故事拆成五个 6 秒镜头。先读每段动作，再观察人物是否连贯、下一步是否承接上一步。这是故事创作案例，不是逃生指导。原帖注明使用 Lart 上的 Wan 3.0，未提供完整生成参数。
 

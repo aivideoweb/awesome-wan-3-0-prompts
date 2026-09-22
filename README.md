@@ -150,7 +150,7 @@ cuts.
 
 ### One character, one direction — [@0xbisc](https://x.com/0xbisc)
 
-<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You — watch the original X video" width="440"></a>
+<a href="https://x.com/0xbisc/status/2093296541834653883/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2093296405674893312/img/KrpfnTtMVpRJboxK.jpg" alt="Before the Void Swallows You — watch the original X video" width="100%"></a>
 
 Study how the prompt keeps the threat behind the running character and carries the action through 30 seconds. **To reproduce it:** the author's brief requires Image1, which is not supplied here. The post is marked as a paid partnership.
 
@@ -158,7 +158,7 @@ Study how the prompt keeps the threat behind the running character and carries t
 
 ### Five connected story beats — [@chatgptpaglu](https://x.com/chatgptpaglu)
 
-<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain story — watch the original X video" width="440"></a>
+<a href="https://x.com/chatgptpaglu/status/2094710054675157354/video/1"><img src="https://pbs.twimg.com/amplify_video_thumb/2094707623602053120/img/bRfC47Flglx2mSJd.jpg" alt="Five-shot mountain story — watch the original X video" width="100%"></a>
 
 Study a 30-second fictional mountain story planned as five 6-second shots: read each shot, then check character continuity and how the next action follows from the previous one. The author names Wan 3.0 on Lart; full settings and a seed are not available here.
 
